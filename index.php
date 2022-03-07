@@ -41,19 +41,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <style type='text/css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='quiety-core-css-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/assets/css/app.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='quiety-style_main-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/style.css?ver=3.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='bootstrap-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/bootstrap.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-five-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/all.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='feather-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/feather.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-four-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/font-awesome.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='preloder-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/loader.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/themify-icons.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/magnific-popup.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/animate.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='quiety-style-css'  href='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/css/app.css?ver=5.9.1' type='text/css' media='all' />
-<style id='quiety-style-inline-css' type='text/css'>
 
+
+<link rel='stylesheet'  href='css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/loader.min.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/animate.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/app.css' type='text/css' media='all' />
+<style type='text/css'>
                 #preloader {
                     position: fixed;
                     top: 0;
@@ -73,15 +67,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 .element{ color: #ffbc00; }
 </style>
 <link rel='stylesheet' id='quiety-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C500%2C600%2C700%2C800%2C900%7CPoppins%3A300%2C400%2C500%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.6' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-9-css'  href='https://quiety-wp.themetags.com/wp-content/uploads/elementor/css/post-9.css?ver=1646314909' type='text/css' media='all' />
-<link rel='stylesheet' id='themify-icons-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/assets/vendors/themify-icon/themify-icons.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elegant-icons-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/assets/vendors/components-elegant-icons/css/elegant-icons.min.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='flaticon-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/css/flaticon.css?ver=5.9.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.5.6' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.6' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-12-css'  href='https://quiety-wp.themetags.com/wp-content/uploads/elementor/css/post-12.css?ver=1646314910' type='text/css' media='all' />
+<link rel='stylesheet' href='css/elementor-icons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' href='css/frontend-lite.min.css' type='text/css' media='all' />
+<link rel='stylesheet'  href='css/post-12.css' type='text/css' media='all' />
+
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.1' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
@@ -89,19 +78,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.6' id='font-awesome-4-shim-js'></script>
-<link rel="https://api.w.org/" href="https://quiety-wp.themetags.com/wp-json/" /><link rel="alternate" type="application/json" href="https://quiety-wp.themetags.com/wp-json/wp/v2/pages/12" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://quiety-wp.themetags.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://quiety-wp.themetags.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 5.9.1" />
-<meta name="generator" content="WooCommerce 6.2.1" />
-<link rel="canonical" href="https://quiety-wp.themetags.com/" />
-<link rel='shortlink' href='https://quiety-wp.themetags.com/' />
-<link rel="alternate" type="application/json+oembed" href="https://quiety-wp.themetags.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquiety-wp.themetags.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="https://quiety-wp.themetags.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fquiety-wp.themetags.com%2F&#038;format=xml" />
-	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<style type="text/css">.site-footer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.page-header{min-height:450px}.page-header{background-image:url(https://quiety-wp.themetags.com/wp-content/uploads/2021/10/page-header-bg.svg);background-position:center center;background-repeat:no-repeat;background-size:cover;}.error_page{background-image:url(https://quiety-wp.themetags.com/wp-content/uploads/2021/10/page-header-bg.svg);background-position:center bottom;background-repeat:no-repeat;background-size:auto;}h1{font-size:40px;}h2{font-size:32px;}h3{font-size:28px;}h4{font-size:24px;}h5{font-size:20px;}h6{font-size:16px;}</style><link rel="icon" href="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/favicon.png" sizes="32x32" />
-<link rel="icon" href="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/favicon.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/favicon.png" />
-<meta name="msapplication-TileImage" content="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/favicon.png" />
+
+
+
+
+
 </head>
 
 <body class="home page-template page-template-elementor_header_footer page page-id-12 wp-embed-responsive theme-quiety woocommerce-no-js no-sidebar elementor-default elementor-template-full-width elementor-kit-9 elementor-page elementor-page-12">
@@ -125,16 +106,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div id="site-content" class="site">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-	<div id="search-menu-wrapper">	
-	<div class="container pr pts-18">
-		<span class="close-search"><i class="feather-x"></i></span>
-		<form role="search" method="get" action="https://quiety-wp.themetags.com/" class="search-form">
-    <input type="text" id="search-form-6225e406be07e" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-   	<button type="submit" class="search-submit">
-		<i class="feather-search"></i>
-	</button>
-</form>	</div>
-</div>
+	
 <header id="masthead" class="site-header header-1 header-width  header_light"  data-header-fixed="true"   data-mobile-menu-resolution="992">
 
 	<div class="container">
@@ -172,459 +144,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<!-- /.mobile-menu-header -->
 
 
-					<div class="menu-wrapper">
-						<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="site-main-menu"><li id="menu-item-289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-289 menu-item single_width mega-menu"><a title="Home" href="#">Home</a>
-<ul role="menu" class="icon-menu sub-menu ">
-	<li id="menu-item-1814" class="menu-item menu-item-type-post_type menu-item-object-mega_menu menu-item-1814 menu-item"><div class="mega-menu-wrapper ">		<div data-elementor-type="wp-post" data-elementor-id="1576" class="elementor elementor-1576" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-09ab015 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="09ab015" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9238c09" data-id="9238c09" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a6d0c4d elementor-widget elementor-widget-tt-menu-item" data-id="a6d0c4d" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									1							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/"  >
-											Saas Company 1											</a>
-									</h4>
-			
-							<p class="description">
-					It's for <b>SaaS Software</b> Company				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-00fdd46 elementor-widget elementor-widget-tt-menu-item" data-id="00fdd46" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									2							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-saas-two/"  >
-											Saas Company 2											</a>
-									</h4>
-			
-							<p class="description">
-					Modern  <b>Saas agency</b>				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-9711d62 elementor-widget elementor-widget-tt-menu-item" data-id="9711d62" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									3							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-desktop-app/"  >
-											Desktop App											</a>
-									</h4>
-			
-							<p class="description">
-					<b>Web Software</b> Company				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-fb99f6f elementor-widget elementor-widget-tt-menu-item" data-id="fb99f6f" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									4							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-app-landing/"  >
-											App Landing											</a>
-									</h4>
-			
-							<p class="description">
-					App and  <b>Software</b> Landing				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-0c083a2 elementor-widget elementor-widget-tt-menu-item" data-id="0c083a2" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									5							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-software-application/"  >
-											Software Application											</a>
-									</h4>
-			
-							<p class="description">
-					IT solutions and   <b>Software</b> SaaS Application				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-d5c2600 elementor-widget elementor-widget-tt-menu-item" data-id="d5c2600" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									6							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-startup-agency/"  >
-											Startup Agency											</a>
-									</h4>
-			
-							<p class="description">
-					Different type of  <b>Agency</b>				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-b79d604 elementor-widget elementor-widget-tt-menu-item" data-id="b79d604" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									7							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-data-analysis/"  >
-											Data Analysis											</a>
-									</h4>
-			
-							<p class="description">
-					Software &  <b>Data Analysis</b>				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-348d7a6 elementor-widget elementor-widget-tt-menu-item" data-id="348d7a6" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									8							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-app-landing-two/"  >
-											App Landing Two											</a>
-									</h4>
-			
-							<p class="description">
-					Software &  <b>Data Analysis</b>				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-				<div class="elementor-element elementor-element-2e5e264 elementor-widget elementor-widget-tt-menu-item" data-id="2e5e264" data-element_type="widget" data-widget_type="tt-menu-item.default">
-				<div class="elementor-widget-container">
-			<div class="tt-menu-item">
-	<div class="wrapper">
-
-			<div class="icon-container">
-
-									9							</div>
-
-
-		<div class="menu-content">
-							<h4 class="box-title">
-											<a href="/home-it-solution/"  >
-											IT Solution											</a>
-									</h4>
-			
-							<p class="description">
-					IT solutions and   <b>Software</b> SaaS Application				</p>
-					</div>
-	</div>
-</div>
-<!-- /.tt-icon-box -->		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
-		</div></li>
-</ul>
-</li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a title="About" href="https://quiety-wp.themetags.com/about/">About</a></li>
-<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27 menu-item"><a title="Services" href="https://quiety-wp.themetags.com/service/">Services</a></li>
-<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118 menu-item"><a title="Pricing" href="https://quiety-wp.themetags.com/pricing/">Pricing</a></li>
-<li id="menu-item-1381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1381 menu-item menu_half_width mega-menu"><a title="Pages" href="#">Pages</a>
-<ul role="menu" class="icon-menu sub-menu ">
-	<li id="menu-item-1815" class="menu-item menu-item-type-post_type menu-item-object-mega_menu menu-item-1815 menu-item"><div class="mega-menu-wrapper ">		<div data-elementor-type="wp-post" data-elementor-id="1528" class="elementor elementor-1528" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-1305666 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1305666" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ec2870e" data-id="ec2870e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4c3cf4a elementor-widget elementor-widget-heading" data-id="4c3cf4a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.6 - 28-02-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Pages</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-06889ef elementor-widget elementor-widget-tt-list" data-id="06889ef" data-element_type="widget" data-widget_type="tt-list.default">
-				<div class="elementor-widget-container">
-				  <ul class="tt__list">
-		  			<li class="list-item">
-							  <a href="/about/" >
-				  
-				  <i aria-hidden="true" class="fas fa-fingerprint"></i>
-				<span class="list-text">About Us</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/service/" >
-				  
-				  <i aria-hidden="true" class="fas fa-code-branch"></i>
-				<span class="list-text">Service</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/pricing/" >
-				  
-				  <i aria-hidden="true" class="fas fa-dollar-sign"></i>
-				<span class="list-text">Pricing</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/our-team/" >
-				  
-				  <i aria-hidden="true" class="fas fa-user"></i>
-				<span class="list-text">Our Team</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/request-for-demo//" >
-				  
-				  <i aria-hidden="true" class="fas fa-laptop-code"></i>
-				<span class="list-text">Request for Demo</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/contact/" >
-				  
-				  <i aria-hidden="true" class="far fa-address-book"></i>
-				<span class="list-text">Contact Us</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/career/" >
-				  
-				  <i aria-hidden="true" class="fas fa-graduation-cap"></i>
-				<span class="list-text">Career</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/job/senior-backend-developer/" >
-				  
-				  <i aria-hidden="true" class="fas fa-user-graduate"></i>
-				<span class="list-text">Career Details</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/portfolio/" >
-				  
-				  <i aria-hidden="true" class="fas fa-images"></i>
-				<span class="list-text">Portfolio</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/portfolio/information-architencure/" >
-				  
-				  <i aria-hidden="true" class="fas fa-image"></i>
-				<span class="list-text">Portfolio Details</span>
-
-				  			  </a>
-						</li>
-
-		  	  </ul>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-93fde6d" data-id="93fde6d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cf6af93 elementor-widget elementor-widget-heading" data-id="cf6af93" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Utility Pages</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-22f6169 elementor-widget elementor-widget-tt-list" data-id="22f6169" data-element_type="widget" data-widget_type="tt-list.default">
-				<div class="elementor-widget-container">
-				  <ul class="tt__list">
-		  			<li class="list-item">
-							  <a href="/blog/" >
-				  
-				  <i aria-hidden="true" class="fas fa-th-large"></i>
-				<span class="list-text">Blog</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/why-communities-help-you-build-better-products/" >
-				  
-				  <i aria-hidden="true" class="fas fa-bars"></i>
-				<span class="list-text">Blog Details</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/service/" >
-				  
-				  <i aria-hidden="true" class="fas fa-code-branch"></i>
-				<span class="list-text">Service</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="https://quiety-wp.themetags.com/service/service-details/" >
-				  
-				  <i aria-hidden="true" class="fas fa-server"></i>
-				<span class="list-text">Service Details</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/help-center/" >
-				  
-				  <i aria-hidden="true" class="far fa-life-ring"></i>
-				<span class="list-text">Help Center</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/support/what-is-the-monthly-cost-of-your-app/" >
-				  
-				  <i aria-hidden="true" class="fas fa-headset"></i>
-				<span class="list-text">Help Details</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/integrations/" >
-				  
-				  <i aria-hidden="true" class="fas fa-rocket"></i>
-				<span class="list-text">Integrations</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/integrations-single/" >
-				  
-				  <i aria-hidden="true" class="far fa-paper-plane"></i>
-				<span class="list-text">Integrations Details</span>
-
-				  			  </a>
-						</li>
-
-		  			<li class="list-item">
-							  <a href="/error/" >
-				  
-				  <i aria-hidden="true" class="fas fa-info-circle"></i>
-				<span class="list-text">404 Page</span>
-
-				  			  </a>
-						</li>
-
-		  	  </ul>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
-		</div></li>
-</ul>
-</li>
-<li id="menu-item-3589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3589 menu-item"><a title="Shop" href="#">Shop</a>
-<ul role="menu" class="icon-menu sub-menu ">
-	<li id="menu-item-3594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3594 menu-item"><a title="Shop" href="https://quiety-wp.themetags.com/shop/">Shop</a></li>
-	<li id="menu-item-3590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3590 menu-item"><a title="Product Single" href="/shop/gadget/apple-watch/">Product Single</a></li>
-	<li id="menu-item-3592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3592 menu-item"><a title="Wishlist" href="/wishlist/">Wishlist</a></li>
-	<li id="menu-item-3593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3593 menu-item"><a title="Cart" href="https://quiety-wp.themetags.com/cart/">Cart</a></li>
-</ul>
-</li>
-<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25 menu-item"><a title="Contact" href="https://quiety-wp.themetags.com/contact/">Contact</a></li>
-</ul></div>							<div class="nav-right">
-								<a href="/contact/" class="tt-btn nav-btn">Get Started</a>							</div>
-												<!-- /.nav-right -->
+<div class="menu-wrapper">
+<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="site-main-menu">
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a title="About" href="#">Home</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a title="Winner" href="#">Winners</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a title="About" href="#">About</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27 menu-item"><a title="QuizList" href="#">Quiz Category</a></li>
+<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118 menu-item"><a title="Pricing" href="#">Rules</a></li>
+<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118 menu-item"><a title="Pricing" href="#">Reward</a></li>
+<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118 menu-item"><a title="Pricing" href="#">Pricing</a></li>
+<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118 menu-item"><a title="Pricing" href="#">QA</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25 menu-item"><a title="Contact" href="#">Contact</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25 menu-item"><a title="Contact" href="#">Login</a></li>
+</ul></div>
 					</div>
 					<!-- /.main-menu -->
 				</div><!-- #menu-wrapper -->
@@ -644,40 +176,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-7 tt-order-2">
-				<div class="banner__content">
-					
-											<h1 class="banner__title wow fadeInUp" data-wow-delay=".3s">
-							Get Fully Control and Visibility your Company						</h1>
-					
-											<p class="wow fadeInUp banner__description" data-wow-delay=".5s">
-							Proactively coordinate quality quality vectors vis-a-vis supply chains. Quickly engage client-centric web services.						</p>
-										<div class="banner__btns wow fadeInUp" data-wow-delay=".7s">
-													<a href="/contact/"  class="tt-btn banner-btn">
-								Request For Demo							</a>
-						
-													<a href="http://www.youtube.com/watch?v=hAP2QF--2Dg" class="play-button">
-								<i class="fas fa-play"></i>How It Works							</a>
-											</div>
-
-											<div class="banner__brand-logo-wrapper wow fadeInUp" data-wow-delay="0.9s">
-															<h4 class="banner__brand-title">Our Top Clients:</h4>
-							
-															<ul class="banner__brand-logos">
-																			<li>
-																							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/client-1.svg" alt="Brand #1">
-																					</li>
-																			<li>
-																							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/client-2.svg" alt="Brande #2">
-																					</li>
-																			<li>
-																							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/client-3.svg" alt="Brande #2">
-																					</li>
-																	</ul>
-								<!-- /.banner__brand-logos -->
-													</div>
-						<!-- /.banner__brand-logo-wrapper -->
-									</div>
-
+				<div class="banner__content">	
+	<h2 class="banner__title wow fadeInUp" data-wow-delay=".3s">When was the last time welded?</h2>
+    <h1 class="banner__title wow fadeInUp text-danger" data-wow-delay=".3s" >THE GENIUS</h1>
+	<h2 class="banner__title wow fadeInUp" data-wow-delay=".3s">of  your Intellect?</h2>
+		</div>
 			</div>
 
 			<div class="col-lg-5">
@@ -1859,7 +1362,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 							<h3 class="subtitle">FAQ</h3>
 			
 			<h2 class="section-title">Frequently Asked Questions</h2>
-							<div class="description">Conveniently mesh cooperative services via magnetic outsourcing. Dynamically grow<br> value whereas accurate e-commerce vectors.</div>
+							<div class="description">Conveniently mesh cooperative services via magnetic outsourcing. Dynamically grow.</div>
 					</div>
 
 				</div>
@@ -1869,50 +1372,121 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-56bf355" data-id="56bf355" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-15be187 elementor-widget elementor-widget-tt-faq-list" data-id="15be187" data-element_type="widget" data-widget_type="tt-faq-list.default">
-				<div class="elementor-widget-container">
-										<div class="tt-faq-list ">
+<div class="elementor-widget-container">
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">1.</span>
+Do you need internet to participate in the quiz?</h4>
+<p class="tt-faq-list__answer">Yes, you can play with any internet (mobile, wifi, broadband).</p>
+</div>
+</div>
 
-					
-					<div class="tt-faq-list-content">
-													<h4 class="tt-faq-list__title">
-																	<span class="tt-faq-list__number">1.</span>
-								
-								 How does back pricing work?							</h4>
-						
-													<p class="tt-faq-list__answer">Progressively e-enable collaborative inexpensive supply chains. Efficiently maintain economically methods of empowerment for synergistic sound scenarios.</p>
-											</div>
-					<!-- /.tt-faq-list-content -->
-				</div>
-							<div class="tt-faq-list ">
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">2.</span>
+Is there any specific time for playing quiz?</h4>
+<p class="tt-faq-list__answer">No, you can play anytime at your convenience.</p>
+</div>
+</div>
 
-					
-					<div class="tt-faq-list-content">
-													<h4 class="tt-faq-list__title">
-																	<span class="tt-faq-list__number">2.</span>
-								
-								How do I calculate how much price?							</h4>
-						
-													<p class="tt-faq-list__answer">Globally benchmark customized mindshare before clicks-and-mortar partnerships. Efficiently maintain economically sound scenarios and whereas client-based progressively.</p>
-											</div>
-					<!-- /.tt-faq-list-content -->
-				</div>
-							<div class="tt-faq-list ">
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">3.</span>
+How many times a day can be played?</h4>
+<p class="tt-faq-list__answer">A user can play full quiz only once daily but if any user goes out or disconnects before completing it for any reason, he will get maximum 3 chances. However, each time the quiz will start anew.</p>
+</div>
+</div>
 
-					
-					<div class="tt-faq-list-content">
-													<h4 class="tt-faq-list__title">
-																	<span class="tt-faq-list__number">3.</span>
-								
-								Can you show me an example?							</h4>
-						
-													<p class="tt-faq-list__answer">Dynamically visualize whereas competitive relationships. Progressively benchmark customized partnerships generate interdependent benefits rather sound scenarios and robust alignments.</p>
-											</div>
-					<!-- /.tt-faq-list-content -->
-				</div>
-					</div>
-				</div>
-					</div>
-		</div>
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">4.</span>
+How to add money?</h4>
+<p class="tt-faq-list__answer">Money can be added using any Master / Visa card (debit / credit) including mobile banking (bKash, Rocket, Cash etc.).</p>
+</div>
+</div>
+
+
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">5.</span>
+How much money can be added?</h4>
+<p class="tt-faq-list__answer">Any amount of money can be added between 20 rupees to 500 rupees.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">6.</span>
+How much money will I get as a bonus if my reference code is used?</h4>
+<p class="tt-faq-list__answer">If a friend registers and subscribes through your reference, for the first time you will get 20% as bonus bonus. In addition, every time that friend recharges, you will get a bonus of 20%. So the more references you use, the more bonuses you will get.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">7.</span>
+How many days will I get reference bonus?</h4>
+<p class="tt-faq-list__answer">Reference Bonus will continue till any new instructions come. Updated information will be available through the notice board.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">8.</span>
+How many questions will be in the complete quiz?</h4>
+<p class="tt-faq-list__answer">There will be 15 to 20 questions, but this number may be more or less. The total number of questions can be seen during the game.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">9.</span>
+What kind of category will have questions or quizzes?</h4>
+<p class="tt-faq-list__answer">The type of question will be open i.e. there will be questions from any category in the country and abroad including history, tradition, sports, science, entertainment or current events.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">10.</span>
+Is the mark of each question one?</h4>
+<p class="tt-faq-list__answer">The mark of each question is not the same, the mark will be more or less according to the quiz type.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">11.</span>
+What type of quiz will there be?</h4>
+<p class="tt-faq-list__answer">Text Quiz, Image Quiz, Audio Quiz, Video Quiz, Puzzle Quiz etc.</p>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">12.</span>
+How is the winner selected?</h4>
+<p class="tt-faq-list__answer">The highest correct respondent will be considered as the winner at the fastest time. Multiple winners will be listed in order.</p>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2a7d037" data-id="2a7d037" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a0b751b elementor-widget elementor-widget-image" data-id="a0b751b" data-element_type="widget" data-widget_type="image.default">
