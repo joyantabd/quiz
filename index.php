@@ -4,8 +4,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
-<meta name="author" content="">
 <title>Protivaa- a Quiz Platform</title>
 <!--Bootstrap-->
 <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -49,13 +47,14 @@
           <ul class="nav navbar-nav">
             <li class="active"><a class="scroll" href="#menu">Home</a></li>
             <li><a class="scroll" href="#about">About</a></li>
-            <li><a class="scroll" href="#service">Service</a></li>
-            <li><a class="scroll" href="#features">Features</a></li>
-            <li><a class="scroll" href="#portfolio">Portfolio</a></li>
+            <li><a class="scroll" href="#service">Winners</a></li>
+            <li><a class="scroll" href="#features">Practice</a></li>
+            <li><a class="scroll" href="#portfolio">Rules</a></li>
             <li><a class="scroll" href="#pricing">Pricing</a></li>
-            <li><a class="scroll" href="#team">Team</a></li>
-            <li><a class="scroll" href="#blog">Blog</a></li>
+            <li><a class="scroll" href="#team">Rewards</a></li>
+            <li><a class="scroll" href="#blog">QA</a></li>
             <li><a class="scroll" href="#contact">Contact</a></li>
+            <li><a class="scroll" href="#contact">Login</a></li>
           </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -72,20 +71,20 @@
         <div class="carousel-caption container">
           <div class="row">
             <div class="col-md-7 col-sm-12 col-xs-12">
-              <h1>We Are Cosmix</h1>
-              <h2>Creative Themes</h2>
-              <p>Cosmix – A One Page Parallax, HTML5 and Responsive Template suitable for any creative business agency. Multiple pages also included in this theme with lots of CSS and JQuery animations</p>
+              <h1>When was the last time welded?</h1>
+              <h2>The Genius</h2>
+              <p>of your intellectuals</p>
             </div>
           </div>
         </div>
       </div>
-      <div class="item" style="background-image:url(images/Slider/02.jpg)">
+      <div class="item" style="background-image:url(images/Slider/10.png)">
         <div class="carousel-caption container">
           <div class="row">
             <div class="col-md-7 col-sm-12 col-xs-12">
-              <h1>We Are Cosmix</h1>
-              <h2>Creative Themes</h2>
-              <p>Cosmix – A One Page Parallax, HTML5 and Responsive Template suitable for any creative business agency. Multiple pages layouts also in this theme with lots of CSS and JQuery animations</p>
+              <h1>We</h1>
+              <h2>Offer Reward</h2>
+              <p>Protivaa – offer three categories (Daily,Weekly,Monthly) of reward to their perticipents.</p>
             </div>
           </div>
         </div>
@@ -94,9 +93,9 @@
         <div class="carousel-caption container">
           <div class="row">
              <div class="col-md-7 col-sm-12 col-xs-12">
-              <h1>We Are Cosmix</h1>
-              <h2>Creative Themes</h2>
-              <p>Cosmix – A One Page Parallax, HTML5 and Responsive Template suitable for any creative business agency. Multiple page also included in this theme with lots of CSS and JQuery animations</p>
+              <h1>We Are Protivaa</h1>
+              <h2>Quiz Platform</h2>
+              <p>Protivaa – A Quiz Platform that tests your knowledge intellectuals.It will give you, your knowledge level </p>
             </div>
           </div>
         </div>
@@ -826,6 +825,4 @@
 </body>
 </html>
 
-<!-- Hosting24 Analytics Code -->
-<script type="text/javascript" src="http://stats.hosting24.com/count.php"></script>
-<!-- End Of Analytics Code -->
+
