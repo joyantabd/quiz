@@ -87,10 +87,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <body class="home page-template page-template-elementor_header_footer page page-id-12 wp-embed-responsive theme-quiety woocommerce-no-js no-sidebar elementor-default elementor-template-full-width elementor-kit-9 elementor-page elementor-page-12">
 
-
-
-
-
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
             <div id="preloader">
                                     <div id="loader">
@@ -145,14 +141,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="menu-wrapper">
 <div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="site-main-menu">
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#home">হোম</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#winner">বিজয়ী তালিকা</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#about">প্রতিভা সম্পর্কে</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#quizcategory">কুইজের ধরণ</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#rule">নিয়ম</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#reward">পুরস্কার</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#qa">প্রশ্নউত্তর</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#contact">যোগাযোগ</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#home">Home</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#winner">Winners</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#about">About</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#quizcategory">Quiz Category</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#rule">Rules</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#reward">Reward</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#qa">QA</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#contact">Contact</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#login">Login</a></li>
 </ul></div>
 					</div>
 					<!-- /.main-menu -->
@@ -161,10 +158,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div><!-- /.header-inner -->
 	</div><!-- /.container -->
 </header><!-- #masthead -->
-	<main id="main" class="site-main">		
-		<div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12" data-elementor-settings="[]">
-	<div class="elementor-section-wrap">
-	<section class="elementor-section elementor-top-section elementor-element elementor-element-d411767 elementor-section-full_width elementor-section-height-default elementor-section-height-default" id="home" data-element_type="section">
+	<main id="main" class="site-main">		<div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-d411767 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d411767" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e6d0dd" data-id="5e6d0dd" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -175,8 +171,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		<div class="row align-items-center">
 			<div class="col-lg-7 tt-order-2">
 				<div class="banner__content">	
-	<h3 class="banner__title wow fadeInUp" data-wow-delay=".3s">শেষ কবে ঝালাই করেছেন আপনার বুদ্ধির</h3>
-    <h1 class="banner__title wow fadeInUp text-danger" data-wow-delay=".3s" >প্রতিভা</h1>
+	<h2 class="banner__title wow fadeInUp" data-wow-delay=".3s">When was the last time welded?</h2>
+    <h1 class="banner__title wow fadeInUp text-danger" data-wow-delay=".3s" >THE GENIUS</h1>
+	<h2 class="banner__title wow fadeInUp" data-wow-delay=".3s">of  your Intellect?</h2>
 		</div>
 			</div>
 
@@ -305,10 +302,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="elementor-widget-container">			
 <div class="section-heading style-one">
-<h3 class="subtitle">প্রতিভা সম্পর্কে যানুন</h3>
-<h2 class="section-title">প্রতিভা একটি অনলাইন কুইজ প্ল্যাটফর্ম</h2>
-<div class="description">এখানে ছোট, বড় সকলের জন্য উপযোগী একটি প্রচেষ্টা যেখানে বুদ্ধিবৃদ্ধির সাথে বিভিন্ন পুরস্কার জেতার সম্ভাবনা রয়েছে।
-মোবাইল কিংবা কম্পিউটারের মাধ্যমে যেকোনো সময় যেকোনো জায়গা থেকে খেলা যায়, তাই সময় কাটানোর পাশাপাশি নলেজ বৃদ্ধি পাবে, যা যেকোনো প্রতিযোগিতা মূলক কাজে সহায়ক হবে।</div>
+<h3 class="subtitle">About Protivaa</h3>
+<h2 class="section-title">Know About Protivaa</h2>
+<div class="description">What is Protivaa.What is protivaa</div>
 </div>
 </div>
 </div>	
@@ -332,8 +328,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="elementor-widget-container">
 <div class="section-heading style-one">	
-	<h2 class="section-title">কি ধরনের কুইজ থাকতে পারে সে সম্পর্কে জানুন</h2>
-	<div class="description">কুইজ কন্টেস্ট এ অংশ গ্রহণ করার পূর্বে বেশি বেশি প্র্যাকটিস করি</div>
+	<h2 class="section-title">Quiz Categories </h2>
+	<div class="description">I practice more and more before taking part in the quiz contest</div>
 </div>
 </div>
 </div>
@@ -351,9 +347,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 
 	<div class="tt-icon-box__content">
-		<h3 class="tt-icon-box__title"><a href="/service/">এমসিকিউ</a></h3>
-			<p class="tt-icon-box__description">সাধারণত, এমসিকিউ এ ৪টি অপশন থাকে এবং ১টি সঠিক উত্তর থাকে। এমন টাইপের প্রশ্ন নিয়ে আমাদের আকর্ষণীয় তথ্যবহুল এমসিকিউ সেকশন</p></br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
+		<h3 class="tt-icon-box__title"><a href="/service/">MCQ</a></h3>
+			<p class="tt-icon-box__description">Generally, MCQ has 4 options and 1 correct answer. Our MCQ section with such type of question</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -375,10 +371,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 			<div class="tt-icon-box__content">
 
-				<h3 class="tt-icon-box__title"><a href="/service/">এমএসকিউ</a></h3>
+				<h3 class="tt-icon-box__title"><a href="/service/">MSQ</a></h3>
 									<p class="tt-icon-box__description">
-									সাধারণত, এমএসকিউ এ ৪টি অপশন থাকে এবং ১ অথবা ততোধিক সঠিক উত্তর থাকে। এমন টাইপের প্রশ্ন নিয়ে আমাদের এমসিকিউ সেকশন</p></br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
+						Appropriately grow competitive rather leadership the leadership processes sound without state.</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -397,9 +393,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
-	<a href="#">সত্য-মিথ্যা</a></h3>
-    <p class="tt-icon-box__description">কিছু প্রশ্ন/বিবৃতি আছে যার উত্তরে আমরা হ্যাঁ/না কিংবা সত্য/মিথ্যা বলে থাকি। এমন টাইপের প্রশ্ন নিয়ে আমাদের সত্য-মিথ্যা সেকশন । এখানে আপনারা সত্য এবং মিথ্যা উত্তর দিবেন</p>	</br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
+	<a href="#">True & False</a></h3>
+    <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false.These type are called true/false</p>	</br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 
@@ -428,9 +424,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 
 	<div class="tt-icon-box__content">
-	<h3 class="tt-icon-box__title"><a href="#">লেখা পাজল</a></h3>
-	<p class="tt-icon-box__description">প্রশ্নের মধ্যেই এমন প্যাঁচ লাগানো থাকে ক্ষণিক সময়ের জন্য মাথা জ্যাম লেগে যায়,এমন টাইপের প্রশ্ন নিয়ে পাজল টেক্সট সেকশন</p></br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
+		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Text</a></h3>
+			<p class="tt-icon-box__description">Our puzzle text section deals with the type of questions that are punctuated by a few questions that cause headaches for a while.</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -451,9 +447,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 
 	<div class="tt-icon-box__content">
-		<h3 class="tt-icon-box__title"><a href="#">পাজল ছবি</a></h3>
-		<p class="tt-icon-box__description">মাঝে ছবিতে কিছু প্রশ্ন দেখে টাশকি খেয়ে যাই আমরা! গাণিতিক কিংবা পাজল টাইপের এমন প্রশ্ন নিয়ে আমাদের পাজল ইমেজ সেকশন</p></br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
+		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Image</a></h3>
+		<p class="tt-icon-box__description">Sometimes we see some questions in the picture and eat Tashki! Our puzzle image section deals with mathematical or puzzle type questions</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -472,9 +468,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
-	<a href="#">পাজল গেইম</a></h3>
-    <p class="tt-icon-box__description">প্রশ্ন দেখে উত্তর দেয়া তো অনেক হল, এবার নিজেকে খেলতে হবে! নানা টাইপের পাজল মিলানো নিয়ে আমাদের পাজল গেম সেকশন</p></br>
-			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>	
+	<a href="#">Puzzle Game</a></h3>
+    <p class="tt-icon-box__description">There is a lot to answer by looking at the question, now you have to play yourself! Our puzzle game section with various types of puzzle matching</p></br>
+			<button href="#" class="btn btn-success">Practice</button>	
 			</div>
 					</div>
 
@@ -604,6 +600,149 @@ Winners will be awarded through Mobile Recharge or bKash so keep mobile number, 
 								<div class="elementor-element elementor-element-a0b751b elementor-widget elementor-widget-image" data-id="a0b751b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 															<img width="1024" height="840" src="images/rules.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+
+
+
+		
+
+
+
+		<section class="elementor-section elementor-top-section elementor-element elementor-element-e29ae06 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e29ae06" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bf9285" data-id="6bf9285" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c01a489 tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="c01a489" data-element_type="widget" data-widget_type="tt-heading.default">
+				<div class="elementor-widget-container">
+			
+		<div class="section-heading style-one">
+
+						<!-- /.icon-container -->
+
+							<h3 class="subtitle">Process</h3>
+			
+			<h2 class="section-title">We Follow Our Work Process</h2>
+							<div class="description">Enthusiastically engage cross-media leadership skills for alternative experiences.<br> Proactively drive vertical systems than intuitive architectures.</div>
+					</div>
+
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f08adcc elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f08adcc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b820caa" data-id="b820caa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-de12d41 elementor-widget elementor-widget-image" data-id="de12d41" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="700" height="826" src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/office-img-1.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/office-img-1.jpeg 700w, https://quiety-wp.themetags.com/wp-content/uploads/2021/10/office-img-1-127x150.jpeg 127w, https://quiety-wp.themetags.com/wp-content/uploads/2021/10/office-img-1-540x637.jpeg 540w, https://quiety-wp.themetags.com/wp-content/uploads/2021/10/office-img-1-254x300.jpeg 254w" sizes="(max-width: 700px) 100vw, 700px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6db2fe4" data-id="6db2fe4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e15d398 elementor-widget elementor-widget-tt-process-box" data-id="e15d398" data-element_type="widget" data-widget_type="tt-process-box.default">
+				<div class="elementor-widget-container">
+					<div class="process-box-wrapper">
+			
+	<div class="tt-process-box style-one elementor-repeater-item-6253ae0">
+		<div class="icon-container">
+																		<i aria-hidden="true" class="fas fa-folder-plus"></i>															<!-- /.icon-container -->
+		</div>
+		<!-- /.icon-container -->
+
+		<div class="box-content">
+			
+							<h4 class="tt-process_step">
+					Step 1				</h4>
+			
+							<h3 class="box-title">
+											Research and Content Planing									</h3>
+			
+							<p class="description">
+					Progressively foster enterprise-wide systems whereas equity invested web-readiness harness installed base bandwidth.				</p>
+			
+		</div>
+	</div>
+	<!-- /.tt-icon-box -->
+
+
+	<div class="tt-process-box style-one elementor-repeater-item-3b80277">
+		<div class="icon-container">
+																		<i aria-hidden="true" class="fas fa-bezier-curve"></i>															<!-- /.icon-container -->
+		</div>
+		<!-- /.icon-container -->
+
+		<div class="box-content">
+			
+							<h4 class="tt-process_step">
+					Step 2				</h4>
+			
+							<h3 class="box-title">
+											Publishing and Execution									</h3>
+			
+							<p class="description">
+					Progressively foster enterprise-wide systems whereas equity invested web-readiness harness installed base bandwidth.				</p>
+			
+		</div>
+	</div>
+	<!-- /.tt-icon-box -->
+
+
+	<div class="tt-process-box style-one elementor-repeater-item-8c410da">
+		<div class="icon-container">
+																		<i aria-hidden="true" class="fas fa-layer-group"></i>															<!-- /.icon-container -->
+		</div>
+		<!-- /.icon-container -->
+
+		<div class="box-content">
+			
+							<h4 class="tt-process_step">
+					Step 3				</h4>
+			
+							<h3 class="box-title">
+											Product Prototyping									</h3>
+			
+							<p class="description">
+					Progressively foster enterprise-wide systems whereas equity invested web-readiness harness installed base bandwidth.				</p>
+			
+		</div>
+	</div>
+	<!-- /.tt-icon-box -->
+
+
+	<div class="tt-process-box style-one elementor-repeater-item-7ab2cf9">
+		<div class="icon-container">
+																		<i aria-hidden="true" class="fas fa-truck"></i>															<!-- /.icon-container -->
+		</div>
+		<!-- /.icon-container -->
+
+		<div class="box-content">
+			
+							<h4 class="tt-process_step">
+					Step 4				</h4>
+			
+							<h3 class="box-title">
+											Deliver the Final Product									</h3>
+			
+							<p class="description">
+					Progressively foster enterprise-wide systems whereas equity invested web-readiness harness installed base bandwidth.				</p>
+			
+		</div>
+	</div>
+	<!-- /.tt-icon-box -->
+
+		</div>
+		<!-- /.prosess-box-wrapper -->
+
+				</div>
 				</div>
 					</div>
 		</div>
@@ -864,8 +1003,214 @@ How is the winner selected?</h4>
 		</div>
 							</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f2124e1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f2124e1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cbca902" data-id="cbca902" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8645496 elementor-widget elementor-widget-tt-logo-lists_two" data-id="8645496" data-element_type="widget" data-widget_type="tt-logo-lists_two.default">
+				<div class="elementor-widget-container">
+						<ul class="tt-logo-list-two align-left">
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/logo13.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/logo10.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/3.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/4.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/5.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/6.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+							</ul>
+					</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-445f16f" data-id="445f16f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4f6f0fd tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="4f6f0fd" data-element_type="widget" data-widget_type="tt-heading.default">
+				<div class="elementor-widget-container">
+			
+		<div class="section-heading style-one">
+
+						<!-- /.icon-container -->
+
+							<h3 class="subtitle">Integration</h3>
+			
+			<h2 class="section-title">We Collaborate with Top Software Company</h2>
+					</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-53db77e elementor-align-center elementor-widget elementor-widget-tt-button" data-id="53db77e" data-element_type="widget" data-widget_type="tt-button.default">
+				<div class="elementor-widget-container">
+					<div class="tt-btn-wrapper">
+			<a href="/integrations/" class="tt-btn-link tt-btn btn-round btn-md btn-default">
+						<span class="tt-btn-content-wrapper">
+							<span class="elementor-align-icon-right tt-btn-icon">
+											<i aria-hidden="true" class="fas fa-arrow-right"></i>									</span>
+						<span class="tt-btn-text">View all Integration</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e3a93ed" data-id="e3a93ed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5040737 elementor-widget elementor-widget-tt-logo-lists_two" data-id="5040737" data-element_type="widget" data-widget_type="tt-logo-lists_two.default">
+				<div class="elementor-widget-container">
+						<ul class="tt-logo-list-two align-right">
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/7.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/8.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/logo11.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/10.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/11.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+									<li data-bs-original-title="Brand Name">
+						<div class="tt-logo-list-two__item">
+							<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/12.png"	alt="Brand Name" width="40">
+						</div>
+						<!-- /.tt-logo-list__item -->
+					</li>
+							</ul>
+					</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3347751 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3347751" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51deffb" data-id="51deffb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-0d5754d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d5754d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0269eab" data-id="0269eab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1cfdb15 tt-shape-circle tt-equal-height-disable tt-view-stacked elementor-widget elementor-widget-tt-icon-box" data-id="1cfdb15" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box style--one icon--top">
+
+			
+							<div class="tt-icon-box__icon-container">
+											<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/4.png"	alt="Google Drive">
+									</div>
+						<!-- /.icon-container -->
+
+			<div class="tt-icon-box__content">
+
+				<h3 class="tt-icon-box__title">Google Drive</h3>
+									<p class="tt-icon-box__description">
+						Competently generate unique e-services and client-based models.
+                                    Globally engage tactical niche					</p>
 				
+
 				
+			</div>
+
+							<div class="tt-icon-box__badge">
+					Connect				</div>
+				<!-- /.tt-icon-box__badge -->
+					</div>
+		<!-- /.tt-icon-box -->
+
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b42b3b7" data-id="b42b3b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-508c4f9 tt-shape-circle tt-equal-height-disable tt-view-stacked elementor-widget elementor-widget-tt-icon-box" data-id="508c4f9" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box style--one icon--top">
+
+			
+							<div class="tt-icon-box__icon-container">
+											<img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/10/9.png"	alt="Google Drive">
+									</div>
+						<!-- /.icon-container -->
+
+			<div class="tt-icon-box__content">
+
+				<h3 class="tt-icon-box__title">Google Drive</h3>
+									<p class="tt-icon-box__description">
+						Competently generate unique e-services and client-based models.
+                                    Globally engage tactical niche					</p>
+				
+
+				
+			</div>
+
+							<div class="tt-icon-box__badge">
+					Connected				</div>
+				<!-- /.tt-icon-box__badge -->
+					</div>
+		<!-- /.tt-icon-box -->
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+
 <section class="elementor-section elementor-top-section elementor-element elementor-element-9b311fa elementor-section-boxed elementor-section-height-default elementor-section-height-default"  id="contact" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-446f227" data-id="446f227" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -905,9 +1250,9 @@ How is the winner selected?</h4>
 				<aside class="row">
 											<div class="col-sm-6 col-lg-5">
 							<div id="block-7" class="widget tt_widget widget_block widget_media_image">
-<figure class="wp-block-image size-full logo-light"><img src="images/logo-white.png" class="wp-image-2252"/></figure>
+<figure class="wp-block-image size-full logo-light"><img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/logo-white.svg" alt="" class="wp-image-2252"/></figure>
 </div><div id="block-9" class="widget tt_widget widget_block widget_media_image">
-<figure class="wp-block-image size-full logo-dark"><img src="images/logo-color.png" alt="" class="wp-image-2251"/></figure>
+<figure class="wp-block-image size-full logo-dark"><img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/logo-color.svg" alt="" class="wp-image-2251"/></figure>
 </div><div id="block-8" class="widget tt_widget widget_block">			<div class="wp-widget-block-newsletter">
 				<p class="description">Our latest news, articles, and resources, we will sent to your inbox weekly.</p>
 
@@ -963,17 +1308,17 @@ How is the winner selected?</h4>
 							<div class="footer-social-wrapper">
 										<ul class="footer-social-link">							<li>
 								<a href="http://facebook.com">
-									<i class="fa fa-facebook-f"></i>
+									<i class="fab fa-facebook-f"></i>
 								</a>
 							</li>
 													<li>
 								<a href="http://twitter.com">
-									<i class="fa fa-twitter"></i>
+									<i class="fab fa-twitter"></i>
 								</a>
 							</li>
 													<li>
 								<a href="http://dribbble.com">
-									<i class="fa fa-dribbble"></i>
+									<i class="fab fa-dribbble"></i>
 								</a>
 							</li>
 						</ul>				</div>
@@ -985,7 +1330,6 @@ How is the winner selected?</h4>
 </div>
 
 </footer><!-- #site-footer -->
-
 	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
