@@ -184,7 +184,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="col-lg-5">
 <div class="banner__feature-image">
-<img src="images/bannar/bannar.svg" class="wow fadeInUp" data-wow-delay="0.5s">
+<img src="images/bannar/bannar01.png" class="wow fadeInUp" data-wow-delay="0.5s">
 					
 <ul class="banner__animate-element animate-element">
 <li class="layer elementor-repeater-item-f67baf5" data-depth="0.02">
