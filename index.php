@@ -1405,6 +1405,14 @@ var tt_parallax_settings = {"0":{"09ab015":{"items_parallax":[],"padding":{"unit
 </script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/js/tt_elementor_sections.js?ver=5.9.1' id='tt-parallax-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/js/tt_elementor_column.js?ver=5.9.1' id='tt-column-js'></script>
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'bn'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     </body>
 </html>
