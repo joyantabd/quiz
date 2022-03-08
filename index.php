@@ -81,7 +81,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
-
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 </head>
 
@@ -333,13 +333,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="elementor-widget-container">
 <div class="section-heading style-one">	
-	<h2 class="section-title">Quiz Categories</h2>
+	<h2 class="section-title">Quiz Categories </h2>
 	<div class="description">I practice more and more before taking part in the quiz contest</div>
 </div>
 </div>
 </div>
-
-
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-602d9ad" data-id="602d9ad" data-element_type="column">
@@ -350,7 +348,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		<div class="tt-icon-box icon--top">
 
 		<div class="tt-icon-box__icon-container">
-			<i aria-hidden="true" class="fas fa-layer-group"></i>											</div>
+		<img src="images/icon/mcq.jpg"/>
+	</div>
 
 	<div class="tt-icon-box__content">
 		<h3 class="tt-icon-box__title"><a href="/service/">MCQ</a></h3>
@@ -368,8 +367,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 		<div class="tt-icon-box icon--top">
 
-												<div class="tt-icon-box__icon-container">
-													<i aria-hidden="true" class="fas fa-shield-alt"></i>											</div>
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/msq.png">					
+	</div>
 							
 						
 
@@ -390,15 +390,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 			
 		<div class="tt-icon-box icon--top">
-
-												<div class="tt-icon-box__icon-container">
-													<i aria-hidden="true" class="fas fa-pencil-ruler"></i>											</div>
-							
-						<!-- /.icon-container -->
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/true-false.png"/>
+		</div>
 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
-	<a href="/service/">True & False</a></h3>
+	<a href="#">True & False</a></h3>
     <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false. Our true-false section on such type of questions</p>	
 			</div>
 					</div>
@@ -407,8 +405,82 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				</div>
 					</div>
 		</div>
-							</div>
+
+		</div>
+		
 		</section>
+
+		<div class="row">
+		<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-602d9ad" data-id="602d9ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3500d6b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d6b" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/puzzle.png"/>
+	</div>
+
+	<div class="tt-icon-box__content">
+		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Text</a></h3>
+			<p class="tt-icon-box__description">Our puzzle text section deals with the type of questions that are punctuated by a few questions that cause headaches for a while.</p>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0c261ab" data-id="0c261ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6411d01 tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="6411d01" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/puzzle image.png">					
+	</div>
+							
+						
+
+	<div class="tt-icon-box__content">
+		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Image</a></h3>
+		<p class="tt-icon-box__description">Sometimes we see some questions in the picture and eat Tashki! Our puzzle image section deals with mathematical or puzzle type questions</p>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0e57fc8" data-id="0e57fc8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-51fcfc0 tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="51fcfc0" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/puzzle game.png"/>
+		</div>
+
+<div class="tt-icon-box__content">
+<h3 class="tt-icon-box__title">
+	<a href="#">Puzzle Game</a></h3>
+    <p class="tt-icon-box__description">There is a lot to answer by looking at the question, now you have to play yourself! Our puzzle game section with various types of puzzle matching</p>	
+			</div>
+					</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+
+		</div>
+		
+		</section>
+		</div>
 					</div>
 		</div>
 							</div>
@@ -695,6 +767,15 @@ Winners will be awarded through Mobile Recharge or bKash so keep mobile number, 
 
 <h3 class="subtitle">Rewards</h3>
 <h2 class="section-title">Take a look at the rewards!</h2>
+<div class="description">There will also be special prizes at special times. Updated information will be available through the notice board.</br>
+
+
+<strong>Other Activity Rewards :</strong>
+
+If a friend registers and subscribes through your reference, for the first time a bonus prize of 20% will be added to your original balance.Every time a friend recharges you will get a bonus equal to 20% which will be added to your original balance. So the more references you use, the more bonus you will get. </br></br>
+
+<p class="text-danger">Special Note:
+ The Authority reserves the right to add, subtract, change, augment and cancel any award at any time.</p></div>	
 		</div>
 	</div>
 </div>
