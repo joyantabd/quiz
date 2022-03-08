@@ -505,11 +505,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-widget-container">
 			
 		<div class="section-heading style-one">
-
-						<!-- /.icon-container -->
-
-<h3 class="subtitle">Rules</h3>
-<h2 class="section-title">Rules to be followed</h2>
+<h2 class="section-title">নিয়মাবলী</h2>
+<h3 class="description">কুইজে অংশগ্রহণ করার পূর্বে নিয়মাবলী জেনে নিন</h3>
 	</div>
 
 				</div>
@@ -524,7 +521,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">1.</span>
-To play the talent quiz, the user has to register and subscribe. The daily subscription fee is 1 taka.</h4>
+প্রতিভা কুইজ খেলতে হলে ইউজার কে রেজিস্ট্রেশান ও সাবস্ক্রিপশন করতে হবে। প্রতিদিনের জন্য সাবস্ক্রিপশন ফি ১ টাকা।</h4>
 </div>
 </div>
 
@@ -532,7 +529,7 @@ To play the talent quiz, the user has to register and subscribe. The daily subsc
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">2.</span>
-A user can play full quiz only once daily but if any user goes out or disconnects before completing it for any reason then he will get maximum 3 chances. However, each time the quiz will start a new.</h4>
+একজন ইউজার ফুল কুইজ দৈনিক একবারই খেলতে পারবেন তবে যদি কোন ইউজার যেকোনো কারনে কমপ্লিট করার পূর্বে বের হয়ে যান অথবা ডিসকানেক্ট হয়ে যান সেক্ষেত্রে সর্বোচ্চ ৩ বার সুযোগ পাবেন। তবে প্রত্যেকবার কুইজ নতুন করে শুরু হবে।</h4>
 </div>
 </div>
 
@@ -540,7 +537,7 @@ A user can play full quiz only once daily but if any user goes out or disconnect
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">3.</span>
-There will be different types of quizzes in different categories like text quiz, image quiz, video quiz, puzzle quiz etc.</h4>
+বিভিন্ন ক্যাটেগরিতে ভিন্ন টাইপের কুইজ থাকবে যেমন টেক্সট কুইজ, ইমেজ কুইজ, ভিডিও কুইজ, পাজল কুইজ ইত্যাদি।</h4>
 </div>
 </div>
 
@@ -548,7 +545,7 @@ There will be different types of quizzes in different categories like text quiz,
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">4.</span>
-Different quizzes will have different time and grading. In other words, less time / number for easy quiz and more time / number for difficult quiz.</h4>
+ভিন্ন কুইজ এর জন্য ভিন্ন সময় ও গ্রেডিং থাকবে। অন্যভাবে বলা যায় সহজ কুইজ জন্য কম সময়/নাম্বার এবং কঠিন কুইজ এর জন্য বেশী সময়/নাম্বার।</h4>
 </div>
 </div>
 
@@ -558,7 +555,7 @@ Different quizzes will have different time and grading. In other words, less tim
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">5.</span>
-The highest correct respondent at the fastest time will be considered the winner. Multiple winners will be listed in order.</h4>
+দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। একাধিক বিজয়ীর জন্য ক্রমানুসারে লিস্টিং করা হবে।</h4>
 </div>
 </div>
 
@@ -566,7 +563,7 @@ The highest correct respondent at the fastest time will be considered the winner
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">6.</span>
-Full number for correct answer and 50% number for wrong answer will be deducted.</h4>
+সঠিক উত্তরের জন্য ফুল নাম্বার এবং ভুল উত্তরের জন্য ৫০% নাম্বার কর্তন করা হবে।</h4>
 </div>
 </div>
 
@@ -574,7 +571,7 @@ Full number for correct answer and 50% number for wrong answer will be deducted.
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">7.</span>
-The winner will be selected every day after 12 midnight. Weekly and monthly winners will appear in the "Winners List".</h4>
+প্রতিদিন বিজয়ী নির্বাচিত হবে রাত ১২ টার পর। সাপ্তাহিক ও মাসিক বিজয়ীদের নাম "বিজয়ীদের তালিকা" তে দেখা যাবে।</h4>
 </div>
 </div>
 
@@ -582,7 +579,7 @@ The winner will be selected every day after 12 midnight. Weekly and monthly winn
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">8.</span>
-A user can recharge any amount of money at his convenience but a minimum of 30 taka has to be recharged.</h4>
+একজন ইউজার তার সুবিধামত যেকোনো পরিমানের টাকা রিচার্জ করতে পারবেন তবে ন্যূনতম ৩০ টাকা রিচার্জ করতে হবে।</h4>
 </div>
 </div>
 
@@ -590,7 +587,7 @@ A user can recharge any amount of money at his convenience but a minimum of 30 t
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">9.</span>
-Winners will be awarded through Mobile Recharge or bKash so keep mobile number, email and bKash number update</h4>
+বিজয়ীদের পুরস্কার মোবাইল রিচার্জ কিংবা বিকাশ এর মাধ্যমে প্রদান করা হবে তাই মোবাইল নাম্বার, ইমেইল ও বিকাশ নাম্বার আপডেট রাখবেন।</h4>
 </div>
 </div>
 
@@ -628,17 +625,15 @@ Winners will be awarded through Mobile Recharge or bKash so keep mobile number, 
 
 						<!-- /.icon-container -->
 
-<h3 class="subtitle">Rewards</h3>
-<h2 class="section-title">Take a look at the rewards!</h2>
-<div class="description">There will also be special prizes at special times. Updated information will be available through the notice board.</br>
+<h2 class="section-title">পুরস্কার !!!</h2>
+<div class="description">দেখে নিন কি কি পুরস্কার থাকছে! এছাড়াও বিশেষ সময়ে বিশেষ পুরস্কার থাকবে। নোটিস বোর্ড এর মাধ্যমে আপডেট তথ্য পাওয়া যাবে।</br>
 
 
-<strong>Other Activity Rewards :</strong>
+<strong>অন্যান্য অ্যাক্টিভিটি পুরস্কারঃ</strong>
 
-If a friend registers and subscribes through your reference, for the first time a bonus prize of 20% will be added to your original balance.Every time a friend recharges you will get a bonus equal to 20% which will be added to your original balance. So the more references you use, the more bonus you will get. </br></br>
+আপনার রেফারেন্স এর মাধ্যমে কোন বন্ধু রেজিস্ট্রেশান ও সাবস্ক্রিপশন করলে প্রথমবার বোনাস পুরস্কার হিসাবে ২০% এর সমপরিমাণ টাকা আপনার মূল ব্যাল্যান্সে যোগ হয়ে যাবে। ঐ বন্ধু যতবার রিচার্জ করবে আপনি ততবার ২০% এর সমপরিমাণ টাকা করে বোনাস পাবেন যা আপনার মূল ব্যাল্যান্সে যোগ হবে। তাই যত বেশী রেফারেন্স ব্যবহার করবেন ততবেশি বোনাস পাবেন।</br></br>
 
-<p class="text-danger">Special Note:
- The Authority reserves the right to add, subtract, change, augment and cancel any award at any time.</p></div>	
+<p class="text-danger">বিশেষ দ্রষ্টব্যঃকর্তৃপক্ষ যেকোনো সময় যে কোন পুরস্কার সংযোজন, বিয়োজন, পরিবর্তন, পরিবর্ধন ও বাতিল করার ক্ষমতা সংরক্ষণ রাখে।</p></div>	
 		</div>
 	</div>
 </div>
@@ -652,12 +647,14 @@ If a friend registers and subscribes through your reference, for the first time 
 			
 	<div class="tt-pricing style-one" >
 		<div class="tt-pricing__header">
-			<h2 class="tt-pricing__title">Daily</h2>
+			<h2 class="tt-pricing__title">দৈনিক পুরস্কার</h2>
 				<h3 class="tt-pricing__price">
-				<span class="tt-pricing__price-wrap"><span>10</span></span><span class="tt-pricing__period">/Daily Prizes</span>
+				<span class="tt-pricing__price-wrap"><span>১০</span></span><span class="tt-pricing__period">/দৈনিক</span>
 					</h3>
 							</div>
-		<div class="description">There will be 10 daily prizes, each will get mobile recharge or bKash for 50 Taka.</div>		
+<div class="description">দৈনিক পুরস্কার থাকবে ১০টি, প্রত্যেকে ৫০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন। দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। অর্থাৎ সর্বোচ্চ সঠিক উত্তর ও সর্বনিম্ন সময় ক্যালকুলেশন এর মাধ্যমে ১০ জন কে পুরস্কার দেয়া হবে।
+</br></br></br></br></br></br></br></br>
+</div>		
 					</div>
 				</div>
 				</div>
@@ -670,12 +667,17 @@ If a friend registers and subscribes through your reference, for the first time 
 			
 				<div class="tt-pricing style-one" >
 		<div class="tt-pricing__header">
-			<h2 class="tt-pricing__title">Weekly</h2>
+			<h2 class="tt-pricing__title">সাপ্তাহিক পুরস্কার</h2>
 				<h3 class="tt-pricing__price">
-				<span class="tt-pricing__price-wrap"><span>5</span></span><span class="tt-pricing__period">/Weekly Prizes</span>
+				<span class="tt-pricing__price-wrap"><span>৫</span></span><span class="tt-pricing__period">/সাপ্তাহিক পুরস্কার</span>
 					</h3>
 							</div>
-		<div class="description">There will be 5 weekly prizes, each will get mobile recharge or bKash for 100 Taka.</div>		
+		<div class="description">সাপ্তাহিক পুরস্কার থাকবে ৫টি, প্রত্যেকে ১০০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন। সাপ্তাহিক বিজয়ীর ক্ষেত্রে ৩ ধরনের ক্যাটেগরি থাকবে। </br>
+
+• প্রথমটি হচ্ছে - সারা সপ্তাহের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে। </br>
+• দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা সপ্তাহের বেস্ট ৩টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ৩ জন কে পুরস্কার দেয়া হবে। </br>
+• তৃতীয়টি হচ্ছে - ৭ দিনই যারা অংশগ্রহণ করেছেন তাদের মধ্য থেকে টপ ১ জন কে পুরস্কার দেয়া হবে।
+</div>		
 					</div>
 				</div>
 				</div>
@@ -688,12 +690,16 @@ If a friend registers and subscribes through your reference, for the first time 
 			
 		<div class="tt-pricing style-one" >
 			<div class="tt-pricing__header">
-				<h2 class="tt-pricing__title">Monthly</h2>
+				<h2 class="tt-pricing__title">মাসিক পুরস্কার </h2>
 					<h3 class="tt-pricing__price">
-						<span class="tt-pricing__price-wrap"><span>3</span></span><span class="tt-pricing__period">/Monthly Prizes</span>
+						<span class="tt-pricing__price-wrap"><span>৩</span></span><span class="tt-pricing__period">/মাসিক পুরস্কার </span>
 											</h3>
 							</div>
-							<div class="description">There will be 3 monthly prizes, each will get mobile recharge or bKash for 500 Taka.</div>
+							<div class="description">মাসিক পুরস্কার থাকবে ৩ টি, প্রত্যেকে ৫০০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন । </br> 
+			মাসিক বিজয়ীর ক্ষেত্রে ২ ধরনের ক্যাটেগরি থাকবে। </br>
+• প্রথমটি হচ্ছে - সারা মাসের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে। </br>
+• দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা মাসের বেস্ট ১৫ টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ২ জন কে পুরস্কার দেয়া হবে। </br></br></br>
+</div>
 
 				</div>
 				</div>
@@ -718,14 +724,10 @@ If a friend registers and subscribes through your reference, for the first time 
 								<div class="elementor-element elementor-element-e7b4577 tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="e7b4577" data-element_type="widget" data-widget_type="tt-heading.default">
 				<div class="elementor-widget-container">
 			
-		<div class="section-heading style-one">
-
-						<!-- /.icon-container -->
-
-							<h3 class="subtitle">FAQ</h3>
-			
-			<h2 class="section-title">Frequently Asked Questions</h2>
-							<div class="description">Conveniently mesh cooperative services via magnetic outsourcing. Dynamically grow.</div>
+	<div class="section-heading style-one">
+		<h3 class="subtitle">সাধারণ জিজ্ঞাসায় প্রশ্ন</h3>
+			<h2 class="section-title">প্রশ্নোত্তর</h2>
+				<div class="description">সাধারণত আমাদেরকে কি ধরনের প্রশ্ন জিজ্ঞেস করা হয়</div>
 					</div>
 
 				</div>
@@ -740,8 +742,8 @@ If a friend registers and subscribes through your reference, for the first time 
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">1.</span>
-Do you need internet to participate in the quiz?</h4>
-<p class="tt-faq-list__answer">Yes, you can play with any internet (mobile, wifi, broadband).</p>
+কুইজ এ অংশগ্রহণ করতে হলে ইন্টারনেট এর প্রয়োজন আছে কি?</h4>
+<p class="tt-faq-list__answer"> জি, যে কোন ইন্টারনেট (মোবাইল, ওয়াইফাই, ব্রডব্যান্ড) দিয়ে খেলতে পারবেন।</p>
 </div>
 </div>
 
@@ -749,8 +751,8 @@ Do you need internet to participate in the quiz?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">2.</span>
-Is there any specific time for playing quiz?</h4>
-<p class="tt-faq-list__answer">No, you can play anytime at your convenience.</p>
+কুইজ খেলার কি কোন নির্দিষ্ট সময় আছে?</h4>
+<p class="tt-faq-list__answer">না, আপনার সুবিধামত যে কোন সময় খেলতে পারবেন।</p>
 </div>
 </div>
 
@@ -758,8 +760,8 @@ Is there any specific time for playing quiz?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">3.</span>
-How many times a day can be played?</h4>
-<p class="tt-faq-list__answer">A user can play full quiz only once daily but if any user goes out or disconnects before completing it for any reason, he will get maximum 3 chances. However, each time the quiz will start anew.</p>
+দিনে কয়বার খেলা যাবে?</h4>
+<p class="tt-faq-list__answer">একজন ইউজার ফুল কুইজ দৈনিক একবারই খেলতে পারবেন তবে যদি কোন ইউজার যেকোনো কারনে কমপ্লিট করার পূর্বে বের হয়ে যান অথবা ডিসকানেক্ট হয়ে যান সেক্ষেত্রে সর্বোচ্চ ৩ বার সুযোগ পাবেন। তবে প্রত্যেকবার কুইজ নতুন করে শুরু হবে।</p>
 </div>
 </div>
 
@@ -767,8 +769,8 @@ How many times a day can be played?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">4.</span>
-How to add money?</h4>
-<p class="tt-faq-list__answer">Money can be added using any Master / Visa card (debit / credit) including mobile banking (bKash, Rocket, Cash etc.).</p>
+কিভাবে টাকা অ্যাড করা যায়?</h4>
+<p class="tt-faq-list__answer">মোবাইল ব্যাংকিং (বিকাশ, রকেট, নগদ ইত্যাদি) সহ যেকোনো মাস্টার/ভিসা কার্ড (ডেবিট/ক্রেডিট) ব্যবহার করে টাকা অ্যাড করা যাবে।</p>
 </div>
 </div>
 
@@ -778,8 +780,8 @@ How to add money?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">5.</span>
-How much money can be added?</h4>
-<p class="tt-faq-list__answer">Any amount of money can be added between 20 rupees to 500 rupees.</p>
+কত টাকা অ্যাড করা যায়?</h4>
+<p class="tt-faq-list__answer">২০ টাকা থেকে ৫০০ টাকার মধ্যে যেকোনো পরিমাণ টাকা অ্যাড করা যায়।</p>
 </div>
 </div>
 
@@ -787,8 +789,8 @@ How much money can be added?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">6.</span>
-How much money will I get as a bonus if my reference code is used?</h4>
-<p class="tt-faq-list__answer">If a friend registers and subscribes through your reference, for the first time you will get 20% as bonus bonus. In addition, every time that friend recharges, you will get a bonus of 20%. So the more references you use, the more bonuses you will get.</p>
+আমার রেফারেন্স কোড ব্যবহৃত হলে কত টাকা বোনাস হিসাবে পাবো?</h4>
+<p class="tt-faq-list__answer">আপনার রেফারেন্স এর মাধ্যমে কোন বন্ধু রেজিস্ট্রেশান ও সাবস্ক্রিপশন করলে প্রথমবার বোনাস পুরস্কার হিসাবে ২০% এর সমপরিমাণ টাকা পাবেন। এছাড়াও ঐ বন্ধু যতবার রিচার্জ করবে আপনি ততবার ২০% এর সমপরিমাণ টাকা করে বোনাস পাবেন। তাই যত বেশী রেফারেন্স ব্যবহার হবে ততবেশি বোনাস পাবেন।</p>
 </div>
 </div>
 
@@ -796,8 +798,8 @@ How much money will I get as a bonus if my reference code is used?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">7.</span>
-How many days will I get reference bonus?</h4>
-<p class="tt-faq-list__answer">Reference Bonus will continue till any new instructions come. Updated information will be available through the notice board.</p>
+রেফারেন্স বোনাস কত দিন পাব?</h4>
+<p class="tt-faq-list__answer">রেফারেন্স বোনাস সম্পর্কিত নতুন কোন নির্দেশনা না আসা পর্যন্ত চলমান থাকবে। নোটিস বোর্ড এর মাধ্যমে আপডেট তথ্য পাওয়া যাবে।</p>
 </div>
 </div>
 
@@ -805,8 +807,8 @@ How many days will I get reference bonus?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">8.</span>
-How many questions will be in the complete quiz?</h4>
-<p class="tt-faq-list__answer">There will be 15 to 20 questions, but this number may be more or less. The total number of questions can be seen during the game.</p>
+সম্পূর্ণ কুইজ এ কয়টি প্রশ্ন থাকবে?</h4>
+<p class="tt-faq-list__answer">১৫ থেকে ২০ টি প্রশ্ন থাকবে, তবে এ সংখ্যা কম বেশী হতে পারে। খেলা চলাকালীন সময়ে মোট প্রশ্ন সংখ্যা দেখা যাবে।</p>
 </div>
 </div>
 
@@ -814,8 +816,8 @@ How many questions will be in the complete quiz?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">9.</span>
-What kind of category will have questions or quizzes?</h4>
-<p class="tt-faq-list__answer">The type of question will be open i.e. there will be questions from any category in the country and abroad including history, tradition, sports, science, entertainment or current events.</p>
+সম্পূর্ণ কুইজ এ কয়টি প্রশ্ন থাকবে?</h4>
+<p class="tt-faq-list__answer">প্রশ্নের ধরন ওপেন থাকবে অর্থাৎ ইতিহাস, ঐতিহ্য, খেলাধুলা, বিজ্ঞান, বিনোদন কিংবা চলমান ঘটনা সহ দেশ বিদেশের যেকোনো ক্যাটেগরি থেকে প্রশ্ন থাকবে।</p>
 </div>
 </div>
 
@@ -823,8 +825,8 @@ What kind of category will have questions or quizzes?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">10.</span>
-Is the mark of each question one?</h4>
-<p class="tt-faq-list__answer">The mark of each question is not the same, the mark will be more or less according to the quiz type.</p>
+প্রত্যেক প্রশ্নের মার্ক কি এক?</h4>
+<p class="tt-faq-list__answer">প্রত্যেক প্রশ্নের মার্ক একই রকম না, কুইজ টাইপ অনুসারে মার্ক কম বেশী হবে।</p>
 </div>
 </div>
 
@@ -832,8 +834,8 @@ Is the mark of each question one?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">11.</span>
-What type of quiz will there be?</h4>
-<p class="tt-faq-list__answer">Text Quiz, Image Quiz, Audio Quiz, Video Quiz, Puzzle Quiz etc.</p>
+কি টাইপ এর কুইজ থাকবে?</h4>
+<p class="tt-faq-list__answer"> টেক্সট কুইজ, ইমেজ কুইজ, অডিও কুইজ, ভিডিও কুইজ, পাজল কুইজ ইত্যাদি</p>
 </div>
 </div>
 
@@ -841,8 +843,8 @@ What type of quiz will there be?</h4>
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
 <span class="tt-faq-list__number">12.</span>
-How is the winner selected?</h4>
-<p class="tt-faq-list__answer">The highest correct respondent will be considered as the winner at the fastest time. Multiple winners will be listed in order.</p>
+কিভাবে বিজয়ী নির্বাচিত হয়?</h4>
+<p class="tt-faq-list__answer">দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। একাধিক বিজয়ীর জন্য ক্রমানুসারে লিস্টিং করা হবে।</p>
 </div>
 </div>
 
@@ -891,8 +893,11 @@ How is the winner selected?</h4>
 				
 					</div>
 		</div>
+		<img src="images/SSLCommerz.png"/>
 							</div>
 		</section>
+
+		
 						</div>
 					</div>
 		
@@ -972,8 +977,8 @@ How is the winner selected?</h4>
 								</a>
 							</li>
 													<li>
-								<a href="http://dribbble.com">
-									<i class="fa fa-dribbble"></i>
+								<a href="https://najjtechnologies.com/">
+									<i class="fa fa-globe"></i>
 								</a>
 							</li>
 						</ul>				</div>
