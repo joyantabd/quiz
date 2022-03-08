@@ -502,7 +502,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">1.</span>
+<span class="tt-faq-list__number">১.</span>
 প্রতিভা কুইজ খেলতে হলে ইউজার কে রেজিস্ট্রেশান ও সাবস্ক্রিপশন করতে হবে। প্রতিদিনের জন্য সাবস্ক্রিপশন ফি ১ টাকা।</h4>
 </div>
 </div>
@@ -510,7 +510,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">2.</span>
+<span class="tt-faq-list__number">২.</span>
 একজন ইউজার ফুল কুইজ দৈনিক একবারই খেলতে পারবেন তবে যদি কোন ইউজার যেকোনো কারনে কমপ্লিট করার পূর্বে বের হয়ে যান অথবা ডিসকানেক্ট হয়ে যান সেক্ষেত্রে সর্বোচ্চ ৩ বার সুযোগ পাবেন। তবে প্রত্যেকবার কুইজ নতুন করে শুরু হবে।</h4>
 </div>
 </div>
@@ -518,7 +518,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">3.</span>
+<span class="tt-faq-list__number">৩.</span>
 বিভিন্ন ক্যাটেগরিতে ভিন্ন টাইপের কুইজ থাকবে যেমন টেক্সট কুইজ, ইমেজ কুইজ, ভিডিও কুইজ, পাজল কুইজ ইত্যাদি।</h4>
 </div>
 </div>
@@ -526,7 +526,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">4.</span>
+<span class="tt-faq-list__number">৪.</span>
 ভিন্ন কুইজ এর জন্য ভিন্ন সময় ও গ্রেডিং থাকবে। অন্যভাবে বলা যায় সহজ কুইজ জন্য কম সময়/নাম্বার এবং কঠিন কুইজ এর জন্য বেশী সময়/নাম্বার।</h4>
 </div>
 </div>
@@ -536,7 +536,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">5.</span>
+<span class="tt-faq-list__number">৫.</span>
 দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। একাধিক বিজয়ীর জন্য ক্রমানুসারে লিস্টিং করা হবে।</h4>
 </div>
 </div>
@@ -544,7 +544,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">6.</span>
+<span class="tt-faq-list__number">৬.</span>
 সঠিক উত্তরের জন্য ফুল নাম্বার এবং ভুল উত্তরের জন্য ৫০% নাম্বার কর্তন করা হবে।</h4>
 </div>
 </div>
@@ -552,7 +552,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">7.</span>
+<span class="tt-faq-list__number">৭.</span>
 প্রতিদিন বিজয়ী নির্বাচিত হবে রাত ১২ টার পর। সাপ্তাহিক ও মাসিক বিজয়ীদের নাম "বিজয়ীদের তালিকা" তে দেখা যাবে।</h4>
 </div>
 </div>
@@ -560,7 +560,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">8.</span>
+<span class="tt-faq-list__number">৮.</span>
 একজন ইউজার তার সুবিধামত যেকোনো পরিমানের টাকা রিচার্জ করতে পারবেন তবে ন্যূনতম ৩০ টাকা রিচার্জ করতে হবে।</h4>
 </div>
 </div>
@@ -568,7 +568,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">9.</span>
+<span class="tt-faq-list__number">৯.</span>
 বিজয়ীদের পুরস্কার মোবাইল রিচার্জ কিংবা বিকাশ এর মাধ্যমে প্রদান করা হবে তাই মোবাইল নাম্বার, ইমেইল ও বিকাশ নাম্বার আপডেট রাখবেন।</h4>
 </div>
 </div>
@@ -723,7 +723,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">1.</span>
+<span class="tt-faq-list__number">১.</span>
 কুইজ এ অংশগ্রহণ করতে হলে ইন্টারনেট এর প্রয়োজন আছে কি?</h4>
 <p class="tt-faq-list__answer"> জি, যে কোন ইন্টারনেট (মোবাইল, ওয়াইফাই, ব্রডব্যান্ড) দিয়ে খেলতে পারবেন।</p>
 </div>
@@ -732,7 +732,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">2.</span>
+<span class="tt-faq-list__number">২.</span>
 কুইজ খেলার কি কোন নির্দিষ্ট সময় আছে?</h4>
 <p class="tt-faq-list__answer">না, আপনার সুবিধামত যে কোন সময় খেলতে পারবেন।</p>
 </div>
@@ -741,7 +741,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">3.</span>
+<span class="tt-faq-list__number">৩.</span>
 দিনে কয়বার খেলা যাবে?</h4>
 <p class="tt-faq-list__answer">একজন ইউজার ফুল কুইজ দৈনিক একবারই খেলতে পারবেন তবে যদি কোন ইউজার যেকোনো কারনে কমপ্লিট করার পূর্বে বের হয়ে যান অথবা ডিসকানেক্ট হয়ে যান সেক্ষেত্রে সর্বোচ্চ ৩ বার সুযোগ পাবেন। তবে প্রত্যেকবার কুইজ নতুন করে শুরু হবে।</p>
 </div>
@@ -750,7 +750,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">4.</span>
+<span class="tt-faq-list__number">৪.</span>
 কিভাবে টাকা অ্যাড করা যায়?</h4>
 <p class="tt-faq-list__answer">মোবাইল ব্যাংকিং (বিকাশ, রকেট, নগদ ইত্যাদি) সহ যেকোনো মাস্টার/ভিসা কার্ড (ডেবিট/ক্রেডিট) ব্যবহার করে টাকা অ্যাড করা যাবে।</p>
 </div>
@@ -761,7 +761,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">5.</span>
+<span class="tt-faq-list__number">৫.</span>
 কত টাকা অ্যাড করা যায়?</h4>
 <p class="tt-faq-list__answer">২০ টাকা থেকে ৫০০ টাকার মধ্যে যেকোনো পরিমাণ টাকা অ্যাড করা যায়।</p>
 </div>
@@ -770,7 +770,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">6.</span>
+<span class="tt-faq-list__number">৬.</span>
 আমার রেফারেন্স কোড ব্যবহৃত হলে কত টাকা বোনাস হিসাবে পাবো?</h4>
 <p class="tt-faq-list__answer">আপনার রেফারেন্স এর মাধ্যমে কোন বন্ধু রেজিস্ট্রেশান ও সাবস্ক্রিপশন করলে প্রথমবার বোনাস পুরস্কার হিসাবে ২০% এর সমপরিমাণ টাকা পাবেন। এছাড়াও ঐ বন্ধু যতবার রিচার্জ করবে আপনি ততবার ২০% এর সমপরিমাণ টাকা করে বোনাস পাবেন। তাই যত বেশী রেফারেন্স ব্যবহার হবে ততবেশি বোনাস পাবেন।</p>
 </div>
@@ -779,7 +779,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">7.</span>
+<span class="tt-faq-list__number">৭.</span>
 রেফারেন্স বোনাস কত দিন পাব?</h4>
 <p class="tt-faq-list__answer">রেফারেন্স বোনাস সম্পর্কিত নতুন কোন নির্দেশনা না আসা পর্যন্ত চলমান থাকবে। নোটিস বোর্ড এর মাধ্যমে আপডেট তথ্য পাওয়া যাবে।</p>
 </div>
@@ -788,7 +788,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">8.</span>
+<span class="tt-faq-list__number">৮.</span>
 সম্পূর্ণ কুইজ এ কয়টি প্রশ্ন থাকবে?</h4>
 <p class="tt-faq-list__answer">১৫ থেকে ২০ টি প্রশ্ন থাকবে, তবে এ সংখ্যা কম বেশী হতে পারে। খেলা চলাকালীন সময়ে মোট প্রশ্ন সংখ্যা দেখা যাবে।</p>
 </div>
@@ -797,7 +797,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">9.</span>
+<span class="tt-faq-list__number">৯.</span>
 সম্পূর্ণ কুইজ এ কয়টি প্রশ্ন থাকবে?</h4>
 <p class="tt-faq-list__answer">প্রশ্নের ধরন ওপেন থাকবে অর্থাৎ ইতিহাস, ঐতিহ্য, খেলাধুলা, বিজ্ঞান, বিনোদন কিংবা চলমান ঘটনা সহ দেশ বিদেশের যেকোনো ক্যাটেগরি থেকে প্রশ্ন থাকবে।</p>
 </div>
@@ -806,7 +806,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">10.</span>
+<span class="tt-faq-list__number">১০.</span>
 প্রত্যেক প্রশ্নের মার্ক কি এক?</h4>
 <p class="tt-faq-list__answer">প্রত্যেক প্রশ্নের মার্ক একই রকম না, কুইজ টাইপ অনুসারে মার্ক কম বেশী হবে।</p>
 </div>
@@ -815,7 +815,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">11.</span>
+<span class="tt-faq-list__number">১১.</span>
 কি টাইপ এর কুইজ থাকবে?</h4>
 <p class="tt-faq-list__answer"> টেক্সট কুইজ, ইমেজ কুইজ, অডিও কুইজ, ভিডিও কুইজ, পাজল কুইজ ইত্যাদি</p>
 </div>
@@ -824,7 +824,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-faq-list ">
 <div class="tt-faq-list-content">
 <h4 class="tt-faq-list__title">
-<span class="tt-faq-list__number">12.</span>
+<span class="tt-faq-list__number">১২.</span>
 কিভাবে বিজয়ী নির্বাচিত হয়?</h4>
 <p class="tt-faq-list__answer">দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। একাধিক বিজয়ীর জন্য ক্রমানুসারে লিস্টিং করা হবে।</p>
 </div>
