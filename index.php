@@ -397,7 +397,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
 	<a href="#">True & False</a></h3>
-    <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false. Our true-false section on such type of questions</p>	
+    <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false.</p>	
 			</div>
 					</div>
 
@@ -409,6 +409,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 		
 		</section>
+		</br>
 
 		<div class="row">
 		<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
