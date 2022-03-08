@@ -184,7 +184,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="col-lg-5">
 <div class="banner__feature-image">
-<img src="https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/elementor/assets/images/banner/banner1.png" class="wow fadeInUp" data-wow-delay="0.5s" alt="Get Fully Control and Visibility your Company">
+<img src="images/bannar/bannar.svg" class="wow fadeInUp" data-wow-delay="0.5s">
 					
 <ul class="banner__animate-element animate-element">
 <li class="layer elementor-repeater-item-f67baf5" data-depth="0.02">
@@ -353,7 +353,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<div class="tt-icon-box__content">
 		<h3 class="tt-icon-box__title"><a href="/service/">MCQ</a></h3>
-			<p class="tt-icon-box__description">Generally, MCQ has 4 options and 1 correct answer. Our MCQ section with such type of question</p>
+			<p class="tt-icon-box__description">Generally, MCQ has 4 options and 1 correct answer. Our MCQ section with such type of question</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -377,7 +378,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 				<h3 class="tt-icon-box__title"><a href="/service/">MSQ</a></h3>
 									<p class="tt-icon-box__description">
-						Appropriately grow competitive rather leadership the leadership processes sound without state.</p>
+						Appropriately grow competitive rather leadership the leadership processes sound without state.</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -397,7 +399,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
 	<a href="#">True & False</a></h3>
-    <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false.</p>	
+    <p class="tt-icon-box__description">There are some questions / statements to which we say yes / no or true / false.These type are called true/false</p>	</br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 
@@ -427,7 +430,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<div class="tt-icon-box__content">
 		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Text</a></h3>
-			<p class="tt-icon-box__description">Our puzzle text section deals with the type of questions that are punctuated by a few questions that cause headaches for a while.</p>
+			<p class="tt-icon-box__description">Our puzzle text section deals with the type of questions that are punctuated by a few questions that cause headaches for a while.</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -449,7 +453,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<div class="tt-icon-box__content">
 		<h3 class="tt-icon-box__title"><a href="/service/">Puzzle Image</a></h3>
-		<p class="tt-icon-box__description">Sometimes we see some questions in the picture and eat Tashki! Our puzzle image section deals with mathematical or puzzle type questions</p>
+		<p class="tt-icon-box__description">Sometimes we see some questions in the picture and eat Tashki! Our puzzle image section deals with mathematical or puzzle type questions</p></br>
+			<button href="#" class="btn btn-success">Practice</button>
 			</div>
 					</div>
 				</div>
@@ -458,7 +463,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0e57fc8" data-id="0e57fc8" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-51fcfc0 tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="51fcfc0" data-element_type="widget" data-widget_type="tt-icon-box.default">
+								<div class="elementor-element elementor-element-51fcfc1 tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="51fcfc1" data-element_type="widget" data-widget_type="tt-icon-box.default">
 				<div class="elementor-widget-container">
 			
 		<div class="tt-icon-box icon--top">
@@ -469,7 +474,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="tt-icon-box__content">
 <h3 class="tt-icon-box__title">
 	<a href="#">Puzzle Game</a></h3>
-    <p class="tt-icon-box__description">There is a lot to answer by looking at the question, now you have to play yourself! Our puzzle game section with various types of puzzle matching</p>	
+    <p class="tt-icon-box__description">There is a lot to answer by looking at the question, now you have to play yourself! Our puzzle game section with various types of puzzle matching</p></br>
+			<button href="#" class="btn btn-success">Practice</button>	
 			</div>
 					</div>
 
