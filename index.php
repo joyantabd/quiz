@@ -13,6 +13,8 @@
 <link rel="alternate" type="application/rss+xml" title="Quiety &raquo; Feed" href="https://quiety-wp.themetags.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Quiety &raquo; Comments Feed" href="https://quiety-wp.themetags.com/comments/feed/" />
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
 <style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -247,56 +249,36 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="elementor-widget-container">
 <div class="section-heading style-one">	
-	<h2 class="section-title">Winner List</h2>
-	<div class="description">We will provide rewards to our participants.Below is the list.</div>
+	<h2 class="section-title">বিজয়ী তালিকা</h2>
+	<div class="description">শুভেচ্ছা ও অভিনন্দন সকল বিজয়ীদের, যারা বিজয়ী হয়নি তারা বেশি বেশি প্র্যাকটিস করি </br></br></br>
+	
+
+
+
+
+	</div>
 </div>
 </div>
 </div>
 
 <section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
 <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-602d9ad" data-id="602d9ad" data-element_type="column">
 <div class="elementor-widget-wrap elementor-element-populated">
-<div class="elementor-element elementor-element-3500d6b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d6b" data-element_type="widget" data-widget_type="tt-icon-box.default">
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
-  </tbody>
-</table>		
-		
-</div>
-</div>
-</div>
+				<div class="elementor-widget-container">
+
+
+
+
+       </div>
+		</div>
 		</div>
 		</section>
 
 
 
+
+
+		<!-- About Section -->
 		<section class="elementor-section elementor-top-section elementor-element elementor-element-431d23c elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="about" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fb05443" data-id="fb05443" data-element_type="column">
@@ -429,7 +411,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 	<div class="tt-icon-box__content">
 	<h3 class="tt-icon-box__title"><a href="#">লেখা পাজল</a></h3>
-	<p class="tt-icon-box__description">প্রশ্নের মধ্যেই এমন প্যাঁচ লাগানো থাকে ক্ষণিক সময়ের জন্য মাথা জ্যাম লেগে যায়,এমন টাইপের প্রশ্ন নিয়ে পাজল টেক্সট সেকশন</p></br>
+	<p class="tt-icon-box__description">প্রশ্নের মধ্যেই এমন প্যাঁচ লাগানো থাকে ক্ষণিক সময়ের জন্য মাথা জ্যাম লেগে যায়,এমন টাইপের প্রশ্ন নিয়ে পাজল টেক্সট</p></br>
 			<button href="#" class="btn btn-success">প্রাকটিস করুন</button>
 			</div>
 					</div>
@@ -908,7 +890,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="footer-wrapper">
 			<div class="container">
 				<aside class="row">
-											<div class="col-sm-6 col-lg-5">
+					<div class="col-sm-6 col-lg-5">
 							<div id="block-7" class="widget tt_widget widget_block widget_media_image">
 <figure class="wp-block-image size-full logo-light"><img src="images/logo-white.png" class="wp-image-2252"/></figure>
 </div><div id="block-9" class="widget tt_widget widget_block widget_media_image">
@@ -933,24 +915,24 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				</div>
 			<!-- /.wp-widget-block-newsletter -->
 			</div>						</div>
-											<div class="col-sm-6 col-lg-3">
-							<div id="nav_menu-2" class="widget tt_widget widget_nav_menu"><h3 class="widget-title">Primary Pages</h3><div class="menu-primary-pages-container"><ul id="menu-primary-pages" class="menu"><li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-267"><a href="https://quiety-wp.themetags.com/" aria-current="page">Home</a></li>
-<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://quiety-wp.themetags.com/about/">About</a></li>
-<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://quiety-wp.themetags.com/contact/">Contact</a></li>
-<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="https://quiety-wp.themetags.com/service/">Service</a></li>
+
+
+			<div class="col-sm-6 col-lg-3">
+							<div id="nav_menu-2" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-primary-pages-container"><ul id="menu-primary-pages" class="menu">
 </ul></div></div>						</div>
-											<div class="col-sm-6 col-lg-2">
-							<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title">Pages</h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="https://quiety-wp.themetags.com/about/">About</a></li>
-<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="https://quiety-wp.themetags.com/pricing/">Pricing</a></li>
-<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="https://quiety-wp.themetags.com/contact/">Contact</a></li>
-<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="https://quiety-wp.themetags.com/request-for-demo/">Request for Demo</a></li>
+		<div class="col-sm-6 col-lg-2">
+			<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-267"><a href="#home" aria-current="page">হোম</a></li>
+<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="#winner">বিজয়ী তালিকা</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="#about">প্রতিভা সম্পর্কে</a></li>
+<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="#quizcategory">কুইজের ধরণ</a></li>
 </ul></div></div>						</div>
-											<div class="col-sm-6 col-lg-2">
-							<div id="nav_menu-4" class="widget tt_widget widget_nav_menu"><h3 class="widget-title">Template</h3><div class="menu-template-container"><ul id="menu-template" class="menu"><li id="menu-item-1911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1911"><a href="https://quiety-wp.themetags.com/blog/">Blog</a></li>
-<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://quiety-wp.themetags.com/service/">Service</a></li>
-<li id="menu-item-1912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1912"><a href="https://quiety-wp.themetags.com/integrations/">Integrations</a></li>
-<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://quiety-wp.themetags.com/contact/">Contact</a></li>
-</ul></div></div>						</div>
+
+				<div class="col-sm-6 col-lg-2">
+				<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="#rule">নিয়ম</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="#reward">পুরস্কার</a></li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="#qa">প্রশ্নউত্তর</a></li>
+<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="#contact">যোগাযোগ</a></li>
+</ul></div></div>								</div>
 											<div class="col-sm-6 col-lg-3">
 													</div>
 									</aside><!-- .widget-area -->
