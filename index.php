@@ -682,7 +682,7 @@ Winners will be awarded through Mobile Recharge or bKash so keep mobile number, 
 
 
 
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c8477de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c8477de" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c8477de elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="reward" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40b55c2" data-id="40b55c2" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -719,21 +719,19 @@ Winners will be awarded through Mobile Recharge or bKash so keep mobile number, 
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ec60cfd" data-id="ec60cfd" data-element_type="column">
+		<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-abd818b" data-id="abd818b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-acfdf6a elementor-widget elementor-widget-tt-pricing-table-single" data-id="acfdf6a" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
+								<div class="elementor-element elementor-element-6eb8741 elementor-widget elementor-widget-tt-pricing-table-single" data-id="6eb8741" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
 				<div class="elementor-widget-container">
 			
-		<div class="tt-pricing featured style-one" >
-			<div class="tt-pricing__header">
-				<h2 class="tt-pricing__title">Weekly</h2>
-			<h3 class="tt-pricing__price">
+				<div class="tt-pricing style-one" >
+		<div class="tt-pricing__header">
+			<h2 class="tt-pricing__title">Weekly</h2>
+				<h3 class="tt-pricing__price">
 				<span class="tt-pricing__price-wrap"><span>5</span></span><span class="tt-pricing__period">/Weekly Prizes</span>
 					</h3>
-				</div>
-				<div class="description">There will be 5 weekly prizes, each will get mobile recharge or bKash for 100 Taka.</div>		
-
-		
+							</div>
+		<div class="description">There will be 5 weekly prizes, each will get mobile recharge or bKash for 100 Taka.</div>		
 					</div>
 				</div>
 				</div>
