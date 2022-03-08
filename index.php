@@ -112,17 +112,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div class="container">
 		<div class="header-inner">
 			<nav id="site-navigation" class="main-nav">
-				<div class="site-logo">
-					
-			<a href="https://quiety-wp.themetags.com/" rel="home">
-									<img  src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/logo-white.svg" alt="Quiety"
-							class="main-logo"/>
-
-											<img  src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/logo-color.svg"
-								alt="Quiety" class="logo-sticky">
-					
-							</a>
-							</div>
+				<div class="site-logo">		
+		<a href="#" rel="home">
+		<img  src="images/logo-white.png" class="main-logo"/>
+		<img  src="images/logo-color.png" class="logo-sticky">
+		</a>
+		</div>
 
 				<div class="tt-hamburger" id="page-open-main-menu" tabindex="1">
 					<span class="bar"></span>
