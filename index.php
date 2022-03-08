@@ -152,7 +152,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#quizcategory">Quiz Category</a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#rule">Rules</a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#reward">Reward</a></li>
-<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#price">Pricing</a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#qa">QA</a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#contact">Contact</a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item"><a href="#login">Login</a></li>
@@ -420,24 +419,121 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				
 
 
-<section class="elementor-section elementor-top-section elementor-element elementor-element-e29ae06 elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="rule" data-element_type="section">
-	<div class="elementor-container elementor-column-gap-default">
-		<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bf9285" data-id="6bf9285" data-element_type="column">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-f6dea87 elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="rule" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab5efc2" data-id="ab5efc2" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c01a489 tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="c01a489" data-element_type="widget" data-widget_type="tt-heading.default">
+								<div class="elementor-element elementor-element-e7b4577 tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="e7b4577" data-element_type="widget" data-widget_type="tt-heading.default">
 				<div class="elementor-widget-container">
 			
-<div class="section-heading style-one">
-		<h3 class="subtitle">Rules</h3>
-<h2 class="section-title">Process must be followed</h2>
-	<div class="description">Enthusiastically engage cross-media leadership skills for alternative experiences.<br> Proactively drive vertical systems than intuitive architectures.</div>
-		</div>
+		<div class="section-heading style-one">
+
+						<!-- /.icon-container -->
+
+<h3 class="subtitle">Rules</h3>
+<h2 class="section-title">Rules to be followed</h2>
+	</div>
+
 				</div>
 				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c326d07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c326d07" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-56bf355" data-id="56bf355" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15be187 elementor-widget elementor-widget-tt-faq-list" data-id="15be187" data-element_type="widget" data-widget_type="tt-faq-list.default">
+<div class="elementor-widget-container">
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">1.</span>
+To play the talent quiz, the user has to register and subscribe. The daily subscription fee is 1 taka.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">2.</span>
+A user can play full quiz only once daily but if any user goes out or disconnects before completing it for any reason then he will get maximum 3 chances. However, each time the quiz will start a new.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">3.</span>
+There will be different types of quizzes in different categories like text quiz, image quiz, video quiz, puzzle quiz etc.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">4.</span>
+Different quizzes will have different time and grading. In other words, less time / number for easy quiz and more time / number for difficult quiz.</h4>
+</div>
+</div>
+
+
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">5.</span>
+The highest correct respondent at the fastest time will be considered the winner. Multiple winners will be listed in order.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">6.</span>
+Full number for correct answer and 50% number for wrong answer will be deducted.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">7.</span>
+The winner will be selected every day after 12 midnight. Weekly and monthly winners will appear in the "Winners List".</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">8.</span>
+A user can recharge any amount of money at his convenience but a minimum of 30 taka has to be recharged.</h4>
+</div>
+</div>
+
+<div class="tt-faq-list ">
+<div class="tt-faq-list-content">
+<h4 class="tt-faq-list__title">
+<span class="tt-faq-list__number">9.</span>
+Winners will be awarded through Mobile Recharge or bKash so keep mobile number, email and bKash number update</h4>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2a7d037" data-id="2a7d037" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a0b751b elementor-widget elementor-widget-image" data-id="a0b751b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1024" height="840" src="images/rules.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
 		</div>
+							</div>
+		</section>
+					</div>
 		</div>
-		</div>
-		</div>
+							</div>
 		</section>
 
 
@@ -597,107 +693,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 						<!-- /.icon-container -->
 
-							<h3 class="subtitle">Pricing</h3>
-			
-			<h2 class="section-title">Check Our Valuable Price</h2>
-							<div class="description">Conveniently mesh cooperative services via magnetic outsourcing. Dynamically grow<br> value whereas accurate e-commerce vectors.</div>
-					</div>
-
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-82aed61 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82aed61" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5e51611 elementor-hidden-tablet elementor-hidden-mobile" data-id="5e51611" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
+<h3 class="subtitle">Rewards</h3>
+<h2 class="section-title">Take a look at the rewards!</h2>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-2678a7e" data-id="2678a7e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-57358cf tt-shape-circle tt-equal-height-disable tt-view-stacked elementor-widget elementor-widget-tt-icon-box" data-id="57358cf" data-element_type="widget" data-widget_type="tt-icon-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="tt-icon-box align-items-center icon--left">
+	</div>
+</div>
 
-												<div class="tt-icon-box__icon-container">
-													<i aria-hidden="true" class="far fa-credit-card"></i>											</div>
-							
-						<!-- /.icon-container -->
-
-			<div class="tt-icon-box__content">
-
-				<h3 class="tt-icon-box__title">No credit card required</h3>
-				
-
-				
-			</div>
-
-					</div>
-		<!-- /.tt-icon-box -->
-
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-57d16f8" data-id="57d16f8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ec0691d tt-shape-circle tt-equal-height-disable tt-view-stacked elementor-widget elementor-widget-tt-icon-box" data-id="ec0691d" data-element_type="widget" data-widget_type="tt-icon-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="tt-icon-box align-items-center icon--left">
-
-												<div class="tt-icon-box__icon-container">
-													<i aria-hidden="true" class="far fa-calendar-check"></i>											</div>
-							
-						<!-- /.icon-container -->
-
-			<div class="tt-icon-box__content">
-
-				<h3 class="tt-icon-box__title">Get 30 day free trial</h3>
-				
-
-				
-			</div>
-
-					</div>
-		<!-- /.tt-icon-box -->
-
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-32d06bd" data-id="32d06bd" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2b6ad5a tt-shape-circle tt-equal-height-disable tt-view-stacked elementor-widget elementor-widget-tt-icon-box" data-id="2b6ad5a" data-element_type="widget" data-widget_type="tt-icon-box.default">
-				<div class="elementor-widget-container">
-			
-		<div class="tt-icon-box align-items-center icon--left">
-
-												<div class="tt-icon-box__icon-container">
-													<i aria-hidden="true" class="far fa-calendar-times"></i>											</div>
-							
-						<!-- /.icon-container -->
-
-			<div class="tt-icon-box__content">
-
-				<h3 class="tt-icon-box__title"> Cancel anytime</h3>
-				
-
-				
-			</div>
-
-					</div>
-		<!-- /.tt-icon-box -->
-
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-78a7ccd elementor-hidden-tablet elementor-hidden-mobile" data-id="78a7ccd" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b66ca32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b66ca32" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-47953c1" data-id="47953c1" data-element_type="column">
@@ -705,71 +706,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								<div class="elementor-element elementor-element-d3f1e04 elementor-widget elementor-widget-tt-pricing-table-single" data-id="d3f1e04" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
 				<div class="elementor-widget-container">
 			
-		<div class="tt-pricing style-one" >
-			<div class="tt-pricing__header">
-									<h2 class="tt-pricing__title">Standard</h2>
-				
-									<h3 class="tt-pricing__price">
-													<span class="tt-pricing__price-wrap"><span class="currency">$</span><span>29</span></span><span class="tt-pricing__period">/month</span>
-											</h3>
+	<div class="tt-pricing style-one" >
+		<div class="tt-pricing__header">
+			<h2 class="tt-pricing__title">Daily</h2>
+				<h3 class="tt-pricing__price">
+				<span class="tt-pricing__price-wrap"><span>10</span></span><span class="tt-pricing__period">/Daily Prizes</span>
+					</h3>
 							</div>
-
-			<div class="tt-pricing__feature-lists">
-				<ul class="tt-pricing__feature-list">
-
-
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Team						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Installed Agent						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Real-Time Feedback						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Video Dedicated Support						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Attacked Targets Per Month						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Team Collaboration Tools						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Automated Updated Features						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														24/7 Life time Support						</li>
-									</ul>
-				<!-- /.tt-pricing__feature-list -->
-			</div>
-			<!-- /.tt-pricing__feature-lists -->
-
-							<div class="tt-pricing__action">
-					<a href="/contact/"	class="tt-btn btn-outline ">
-						Buy Now					</a>
-				</div>
-				<!-- /.gp-pricing__action -->
+		<div class="description">There will be 10 daily prizes, each will get mobile recharge or bKash for 50 Taka.</div>		
 					</div>
-		<!-- /.tt-pricing -->
 				</div>
 				</div>
 					</div>
@@ -781,69 +726,15 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 		<div class="tt-pricing featured style-one" >
 			<div class="tt-pricing__header">
-									<h2 class="tt-pricing__title">Advanced</h2>
-				
-									<h3 class="tt-pricing__price">
-													<span class="tt-pricing__price-wrap"><span class="currency">$</span><span>45</span></span><span class="tt-pricing__period">/month</span>
-											</h3>
-							</div>
-
-			<div class="tt-pricing__feature-lists">
-				<ul class="tt-pricing__feature-list">
-
-
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Team						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Installed Agent						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Real-Time Feedback						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Video Dedicated Support						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Attacked Targets Per Month						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Team Collaboration Tools						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Automated Updated Features						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														24/7 Life time Support						</li>
-									</ul>
-				<!-- /.tt-pricing__feature-list -->
-			</div>
-			<!-- /.tt-pricing__feature-lists -->
-
-							<div class="tt-pricing__action">
-					<a href="/contact/"	class="tt-btn featured_btn ">
-						Buy Now					</a>
+				<h2 class="tt-pricing__title">Weekly</h2>
+			<h3 class="tt-pricing__price">
+				<span class="tt-pricing__price-wrap"><span>5</span></span><span class="tt-pricing__period">/Weekly Prizes</span>
+					</h3>
 				</div>
-				<!-- /.gp-pricing__action -->
+				<div class="description">There will be 5 weekly prizes, each will get mobile recharge or bKash for 100 Taka.</div>		
+
+		
 					</div>
-		<!-- /.tt-pricing -->
 				</div>
 				</div>
 					</div>
@@ -855,69 +746,13 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 		<div class="tt-pricing style-one" >
 			<div class="tt-pricing__header">
-									<h2 class="tt-pricing__title">Premium</h2>
-				
-									<h3 class="tt-pricing__price">
-													<span class="tt-pricing__price-wrap"><span class="currency">$</span><span>75</span></span><span class="tt-pricing__period">/month</span>
+				<h2 class="tt-pricing__title">Monthly</h2>
+					<h3 class="tt-pricing__price">
+						<span class="tt-pricing__price-wrap"><span>3</span></span><span class="tt-pricing__period">/Monthly Prizes</span>
 											</h3>
 							</div>
+							<div class="description">There will be 3 monthly prizes, each will get mobile recharge or bKash for 500 Taka.</div>
 
-			<div class="tt-pricing__feature-lists">
-				<ul class="tt-pricing__feature-list">
-
-
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Team						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Installed Agent						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Real-Time Feedback						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Video Dedicated Support						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														1 Attacked Targets Per Month						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Team Collaboration Tools						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														Automated Updated Features						</li>
-					
-						
-						<li class="">
-															<span class="bullet"></span>
-														24/7 Life time Support						</li>
-									</ul>
-				<!-- /.tt-pricing__feature-list -->
-			</div>
-			<!-- /.tt-pricing__feature-lists -->
-
-							<div class="tt-pricing__action">
-					<a href="/contact/"	class="tt-btn btn-outline ">
-						Buy Now					</a>
-				</div>
-				<!-- /.gp-pricing__action -->
-					</div>
-		<!-- /.tt-pricing -->
 				</div>
 				</div>
 					</div>
@@ -928,6 +763,12 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 							</div>
 		</section>
+
+
+
+
+
+		<!-- FAQ Section -->
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-f6dea87 elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="qa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab5efc2" data-id="ab5efc2" data-element_type="column">
