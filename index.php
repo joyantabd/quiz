@@ -720,6 +720,9 @@
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
                                             <a href="#contact">যোগাযোগ</a></li>
+										<li id="menu-item-23"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
+                                            <a href="#">সাইন ইন/আপ</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -749,9 +752,11 @@
                                                     <div class="row align-items-center">
                                                         <div class="col-lg-7 tt-order-2">
                                                             <div class="banner__content">
-                                                                <h3 class="banner__title wow fadeInUp"
-                                                                    data-wow-delay=".3s">শেষ কবে ঝালাই করেছেন আপনার
-                                                                    বুদ্ধির</h3>
+                                                                <h2 class="banner__title wow fadeInUp"
+                                                                    data-wow-delay=".3s">শেষ কবে ঝালাই করেছেন </h2>
+																	<h2 class="banner__title wow fadeInUp"
+                                                                    data-wow-delay=".3s">আপনার
+                                                                    বুদ্ধির</h2>
                                                                 <h1 class="banner__title wow fadeInUp text-danger"
                                                                     data-wow-delay=".3s">প্রতিভা ?</h1></br></br>
                                                                 <a href="#" class="tt-btn banner-btn">চেষ্টা করুন</a>
@@ -971,17 +976,17 @@
                                                         <table class="table table-hover">
                                                             <thead>
                                                                 <tr>
-																<th class="text-center">ক্রমিক</th>
-                                    							<th class="text-center">ইমেইল</th>
-                                    							<th class="text-center">বিজয়ীর নাম</th>
-                                    							<th class="text-center">মোবাইল নাম্বার</th>
-                                    							<th class="text-center">স্কোর</th>
-                                    							<th class="text-center">সময়</th>
+																<th>ক্রমিক</th>
+                                    							<th>ইমেইল</th>
+                                    							<th>বিজয়ীর নাম</th>
+                                    							<th>মোবাইল নাম্বার</th>
+                                    							<th>স্কোর</th>
+                                    							<th>সময়</th>
                                                                 </tr>
                                                             </thead>
                                                             <tbody>
                                                                 <tr>
-                                                                    <th scope="row">1</th>
+                                                                    <th>1</th>
                                                                     <td>user1@protivaa.com</td>
                                                                     <td>Mark</td>
 																	<td>+8801673962210</td>

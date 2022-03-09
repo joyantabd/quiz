@@ -8162,7 +8162,7 @@ p.woocommerce-form-row label {
   color: #175cff;
 }
 .site-footer .footer-wrapper {
-  padding: 107px 0 70px;
+  padding: 20px 5px;
 }
 .site-footer .site-info {
   border-top: 1px solid rgba(237, 237, 237, 0.05);
@@ -8184,12 +8184,12 @@ p.woocommerce-form-row label {
   }
 }
 .site-footer .site-info .copyright {
-  padding: 27px 0;
+  padding: 10px 0;
   text-align: center;
 }
 @media (max-width: 767px) {
   .site-footer .site-info .copyright {
-    padding: 15px 0;
+    padding: 10px 0;
   }
 }
 .site-footer .site-info .copyright p {
