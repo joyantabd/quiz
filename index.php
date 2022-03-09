@@ -178,7 +178,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="col-lg-7 tt-order-2">
 				<div class="banner__content">	
 	<h3 class="banner__title wow fadeInUp" data-wow-delay=".3s">শেষ কবে ঝালাই করেছেন আপনার বুদ্ধির</h3>
-    <h1 class="banner__title wow fadeInUp text-danger" data-wow-delay=".3s" >প্রতিভা</h1>
+    <h1 class="banner__title wow fadeInUp text-danger" data-wow-delay=".3s" >প্রতিভা ?</h1>
 		</div>
 			</div>
 
@@ -252,14 +252,145 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<h2 class="section-title">বিজয়ী তালিকা</h2>
 	<div class="description">শুভেচ্ছা ও অভিনন্দন সকল বিজয়ীদের, যারা বিজয়ী হয়নি তারা বেশি বেশি প্র্যাকটিস করি </br></br></br>
 	
-<div class="row">
-	<div class="col bg-secondary m-0  rounded prize">গতকালের বিজয়ী</div>
-	<div class="col bg-info m-0  rounded prize">rrr</div>
-	<div class="col bg-danger m-0  rounded prize">aaa</div>
+	<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-602d9ad" data-id="602d9ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3500d5b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d5b" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+
+	<div class="tt-icon-box__content">
+		<h3 class="tt-icon-box__title"><a href="">গত কালের বিজয়ী</a></h3>
+		<p class="tt-icon-box__description">
+		<?php
+    // Get yesterdays date
+    echo date('d M Y',strtotime("yesterday")); 
+        ?>
+		</p>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+
+
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0c261ab" data-id="0c261ab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3500d5b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d5b" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+			<div class="tt-icon-box__content">
+				<h3 class="tt-icon-box__title"><a href="#">গত সপ্তাহের বিজয়ী</a></h3>
+				<p class="tt-icon-box__description">
+		<?php
+    // Get yesterdays date
+    echo date('d M Y',strtotime("-7 days"));
+        ?>
+		</p>
+			</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0e57fc8" data-id="0e57fc8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3500d5b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d5b" data-element_type="widget" data-widget_type="tt-icon-box.default">
+				<div class="elementor-widget-container">
+			
+		<div class="tt-icon-box icon--top">
+<div class="tt-icon-box__content">
+<h3 class="tt-icon-box__title">
+	<a href="#">গত মাসের বিজয়ী</a></h3>
+	<p class="tt-icon-box__description">
+		<?php
+    // Get yesterdays date
+    echo date('01 M Y',strtotime("-30 days"));
+        ?>
+		</p>
+			</div>
+			</div>
+				</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		</section></br>
+
+
+		<div class="row ">
+		<table class="table table-hover">
+                    <thead>
+                                    <tr>
+                                    <th>ক্রমিক</th>
+                                    <th>ইমেইল</th>
+                                    <th>বিজয়ীর নাম</th>
+                                    <th>মোবাইল নাম্বার</th>
+                                    <th>স্কোর</th>
+                                    <th>সময়</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+								<tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+								<tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+								<tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+								<tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+								<tr>
+                                    <td>1</td>
+                                    <td>user1@protivaa.com</td>
+                                    <td>Hossain</td>
+                                    <td>+8801666666666</td>
+                                    <td>59</td>
+                                    <td>16 Sec</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
 
 
 
-	</div>
+
 </div>
 </div>
 </div>
@@ -957,40 +1088,43 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <figure class="wp-block-image size-full logo-light"><img src="images/logo-white.png" class="wp-image-2252"/></figure>
 </div><div id="block-9" class="widget tt_widget widget_block widget_media_image">
 <figure class="wp-block-image size-full logo-dark"><img src="images/logo-color.png" alt="" class="wp-image-2251"/></figure>
-</div><div id="block-8" class="widget tt_widget widget_block">			<div class="wp-widget-block-newsletter">
-				<p class="description">Our latest news, articles, and resources, we will sent to your inbox weekly.</p>
 
-				<form action="https://quiety-wp.themetags.com/wp-admin/admin-ajax.php" method="post" class="footer-newsletter-form widget-newsletter" data-tt-form="newsletter-subscribe">
-					<input type="hidden" name="action" value="quiety_mailchimp_subscribe">
+<div class="footer-social-wrapper">
+						<ul class="footer-social-link">
+								<li>
+								<a target="blank" href="https://www.facebook.com/ProtivaaQuiz">
+								<i class="fa fa-facebook-f"></i>
+								</a>
+							    </li>
+								
+								<li>
+								<a target="blank" href="https://www.youtube.com/channel/UC3nKizpFFbaaqBCHp7Jdvbw">
+								<i class="fa fa-youtube"></i>
+								</a>
+							    </li>
+								<!-- <li>
+								<a target="blank" href="https://najjtechnologies.com/">
+								<i class="fa fa-globe"></i>
+								</a>
+							    </li> -->
+						</ul>				</div>
 
-					<div class="newsletter-inner d-flex">
-						<input type="email" name="email" class="form-control" id="newsletter-form-email" placeholder="Email" required>
-						<button type="submit" name="submit" id="newsletter-submit" class="newsletter-submit tt-btn">
-							Subscribe							<i class="fa fa-circle-o-notch fa-spin"></i>
-						</button>
-					</div>
-
-					<div class="form-result alert">
-						<div class="content"></div>
-					</div><!-- /.form-result-->
-				</form><!-- /.newsletter-form -->
-				</div>
-			<!-- /.wp-widget-block-newsletter -->
-			</div>						</div>
+</div>
+</div>
 
 
-			<div class="col-sm-6 col-lg-3">
-							<div id="nav_menu-2" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-primary-pages-container"><ul id="menu-primary-pages" class="menu">
+	<div class="col-sm-6 col-lg-3">
+	<div id="nav_menu-2" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-primary-pages-container"><ul id="menu-primary-pages" class="menu">
 </ul></div></div>						</div>
 		<div class="col-sm-6 col-lg-2">
-			<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-267"><a href="#home" aria-current="page">হোম</a></li>
+			<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title">প্রয়োজনীয় লিঙ্কস</h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-267"><a href="#home" aria-current="page">হোম</a></li>
 <li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="#winner">বিজয়ী তালিকা</a></li>
 <li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="#about">প্রতিভা সম্পর্কে</a></li>
 <li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="#quizcategory">কুইজের ধরণ</a></li>
 </ul></div></div>						</div>
 
 				<div class="col-sm-6 col-lg-2">
-				<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title"></h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="#rule">নিয়ম</a></li>
+				<div id="nav_menu-3" class="widget tt_widget widget_nav_menu"><h3 class="widget-title">পুরস্কার ও অন্যান্য</h3><div class="menu-pages-container"><ul id="menu-pages" class="menu"><li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="#rule">নিয়ম</a></li>
 <li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="#reward">পুরস্কার</a></li>
 <li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"><a href="#qa">প্রশ্নউত্তর</a></li>
 <li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="#contact">যোগাযোগ</a></li>
@@ -1005,11 +1139,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<div class="container">
 		<div class="site-info-wrapper footer-social-wrap">
 			<div class="copyright">
-				<p>
-					&copy; 2022 Quiety - All Rights Reserved <a href="https://www.protivaa.com/">Protivaa</a>				</p>
+			<p>&copy; Copyright Protivaa. All Rights Reserved</p>
 			</div>
 
-							<div class="footer-social-wrapper">
+							<!-- <div class="footer-social-wrapper">
 										<ul class="footer-social-link">							<li>
 								<a href="http://facebook.com">
 									<i class="fa fa-facebook-f"></i>
@@ -1025,7 +1158,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 									<i class="fa fa-globe"></i>
 								</a>
 							</li>
-						</ul>				</div>
+						</ul>				</div> -->
 				<!-- /.footer-social-wrapper -->
 					</div>
 		<!-- /.site-info-wrapper -->
