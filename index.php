@@ -971,12 +971,12 @@
                                                         <table class="table table-hover">
                                                             <thead>
                                                                 <tr>
-																<th>ক্রমিক</th>
-                                    							<th>ইমেইল</th>
-                                    							<th>বিজয়ীর নাম</th>
-                                    							<th>মোবাইল নাম্বার</th>
-                                    							<th>স্কোর</th>
-                                    							<th>সময়</th>
+																<th class="text-center">ক্রমিক</th>
+                                    							<th class="text-center">ইমেইল</th>
+                                    							<th class="text-center">বিজয়ীর নাম</th>
+                                    							<th class="text-center">মোবাইল নাম্বার</th>
+                                    							<th class="text-center">স্কোর</th>
+                                    							<th class="text-center">সময়</th>
                                                                 </tr>
                                                             </thead>
                                                             <tbody>
