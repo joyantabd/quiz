@@ -252,7 +252,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<h2 class="section-title">বিজয়ী তালিকা</h2>
 	<div class="description">শুভেচ্ছা ও অভিনন্দন সকল বিজয়ীদের, যারা বিজয়ী হয়নি তারা বেশি বেশি প্র্যাকটিস করি </br></br></br>
 	
-
+<div class="row">
+	<div class="col bg-secondary m-0  rounded prize">গতকালের বিজয়ী</div>
+	<div class="col bg-info m-0  rounded prize">rrr</div>
+	<div class="col bg-danger m-0  rounded prize">aaa</div>
 
 
 
@@ -444,7 +447,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0e57fc8" data-id="0e57fc8" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-51fcfc1 tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="51fcfc1" data-element_type="widget" data-widget_type="tt-icon-box.default">
+								<div class="elementor-element elementor-element-6411d01  tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="6411d01 " data-element_type="widget" data-widget_type="tt-icon-box.default">
 				<div class="elementor-widget-container">
 			
 		<div class="tt-icon-box icon--top">
@@ -620,75 +623,89 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 </div>
 
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b66ca32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b66ca32" data-element_type="section">
+
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d33334" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-47953c1" data-id="47953c1" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-602d9ad" data-id="602d9ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d3f1e04 elementor-widget elementor-widget-tt-pricing-table-single" data-id="d3f1e04" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
+								<div class="elementor-element elementor-element-3500d6b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d6b" data-element_type="widget" data-widget_type="tt-icon-box.default">
 				<div class="elementor-widget-container">
 			
-	<div class="tt-pricing style-one" >
-		<div class="tt-pricing__header">
-			<h2 class="tt-pricing__title">দৈনিক পুরস্কার</h2>
+		<div class="tt-icon-box icon--top">
+
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/24-hours.png"/>
+	</div>
+
+	<div class="tt-icon-box__content">
+		<h3 class="tt-icon-box__title"><a href="#">দৈনিক পুরস্কার</a></h3>
 				<h3 class="tt-pricing__price">
 				<span class="tt-pricing__price-wrap"><span>১০</span></span><span class="tt-pricing__period">/দৈনিক</span>
 					</h3>
-							</div>
-<div class="description">দৈনিক পুরস্কার থাকবে ১০টি, প্রত্যেকে ৫০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন। দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। অর্থাৎ সর্বোচ্চ সঠিক উত্তর ও সর্বনিম্ন সময় ক্যালকুলেশন এর মাধ্যমে ১০ জন কে পুরস্কার দেয়া হবে।
-</br></br></br></br></br></br></br></br>
-</div>		
+			<p class="tt-icon-box__description">দৈনিক পুরস্কার থাকবে ১০টি, প্রত্যেকে ৫০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন। দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা বিজয়ী হিসাবে বিবেচিত হবেন। অর্থাৎ সর্বোচ্চ সঠিক উত্তর ও সর্বনিম্ন সময় ক্যালকুলেশন এর মাধ্যমে ১০ জন কে পুরস্কার দেয়া হবে।</p></br></br>
+			</div>
 					</div>
 				</div>
 				</div>
 					</div>
 		</div>
-		<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-abd818b" data-id="abd818b" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0c261ab" data-id="0c261ab" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6eb8741 elementor-widget elementor-widget-tt-pricing-table-single" data-id="6eb8741" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
+								<div class="elementor-element elementor-element-3500d6b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d6b" data-element_type="widget" data-widget_type="tt-icon-box.default">
 				<div class="elementor-widget-container">
 			
-				<div class="tt-pricing style-one" >
-		<div class="tt-pricing__header">
-			<h2 class="tt-pricing__title">সাপ্তাহিক পুরস্কার</h2>
+		<div class="tt-icon-box icon--top">
+
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/weekly.png">					
+	</div>
+			<div class="tt-icon-box__content">
+
+			<h3 class="tt-icon-box__title"><a href="#">সাপ্তাহিক পুরস্কার</a></h3>
 				<h3 class="tt-pricing__price">
 				<span class="tt-pricing__price-wrap"><span>৫</span></span><span class="tt-pricing__period">/সাপ্তাহিক পুরস্কার</span>
 					</h3>
-							</div>
-		<div class="description">সাপ্তাহিক পুরস্কার থাকবে ৫টি, প্রত্যেকে ১০০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন। সাপ্তাহিক বিজয়ীর ক্ষেত্রে ৩ ধরনের ক্যাটেগরি থাকবে। </br>
-
-• প্রথমটি হচ্ছে - সারা সপ্তাহের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে। </br>
-• দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা সপ্তাহের বেস্ট ৩টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ৩ জন কে পুরস্কার দেয়া হবে। </br>
-• তৃতীয়টি হচ্ছে - ৭ দিনই যারা অংশগ্রহণ করেছেন তাদের মধ্য থেকে টপ ১ জন কে পুরস্কার দেয়া হবে।
-</div>		
+			<p class="tt-icon-box__description">প্রত্যেকে ১০০ টাকা করে  পাবেন। ৩ ধরনের ক্যাটেগরি থাকবে।
+প্রথমটি হচ্ছে - সারা সপ্তাহের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে।
+দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা সপ্তাহের বেস্ট ৩টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ৩ জন কে পুরস্কার দেয়া হবে।
+তৃতীয়টি হচ্ছে - ৭ দিনই যারা অংশগ্রহণ করেছেন তাদের মধ্যে টপ ১ জন কে পুরস্কার দেয়া হবে।</p>
+			</div>
 					</div>
 				</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-abd818b" data-id="abd818b" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0e57fc8" data-id="0e57fc8" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6eb8741 elementor-widget elementor-widget-tt-pricing-table-single" data-id="6eb8741" data-element_type="widget" data-widget_type="tt-pricing-table-single.default">
+								<div class="elementor-element elementor-element-3500d6b tt-equal-height-disable tt-view-stacked tt-shape-rounded elementor-widget elementor-widget-tt-icon-box" data-id="3500d6b" data-element_type="widget" data-widget_type="tt-icon-box.default">
 				<div class="elementor-widget-container">
 			
-		<div class="tt-pricing style-one" >
-			<div class="tt-pricing__header">
-				<h2 class="tt-pricing__title">মাসিক পুরস্কার </h2>
-					<h3 class="tt-pricing__price">
-						<span class="tt-pricing__price-wrap"><span>৩</span></span><span class="tt-pricing__period">/মাসিক পুরস্কার </span>
-											</h3>
-							</div>
-							<div class="description">মাসিক পুরস্কার থাকবে ৩ টি, প্রত্যেকে ৫০০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন । </br> 
-			মাসিক বিজয়ীর ক্ষেত্রে ২ ধরনের ক্যাটেগরি থাকবে। </br>
-• প্রথমটি হচ্ছে - সারা মাসের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে। </br>
-• দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা মাসের বেস্ট ১৫ টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ২ জন কে পুরস্কার দেয়া হবে। </br></br></br>
-</div>
+		<div class="tt-icon-box icon--top">
+		<div class="tt-icon-box__icon-container">
+		<img src="images/icon/monthly.png"/>
+		</div>
+
+<div class="tt-icon-box__content">
+<h3 class="tt-icon-box__title"><a href="#">মাসিক পুরস্কার</a></h3>
+				<h3 class="tt-pricing__price">
+				<span class="tt-pricing__price-wrap"><span>৩</span></span><span class="tt-pricing__period">/মাসিক পুরস্কার</span>
+					</h3>
+			<p class="tt-icon-box__description">মাসিক পুরস্কার থাকবে ৩ টি, প্রত্যেকে ৫০০ টাকা করে মোবাইল রিচার্জ কিংবা বিকাশ পাবেন ।
+মাসিক বিজয়ীর ক্ষেত্রে ২ ধরনের ক্যাটেগরি থাকবে।
+• প্রথমটি হচ্ছে - সারা মাসের মধ্যে দ্রুততম সময়ে সর্বোচ্চ সঠিক উত্তরদাতা ১ জন কে পুরস্কার দেয়া হবে।
+• দ্বিতীয়টি হচ্ছে - প্রত্যেক ইউজার এর সারা মাসের বেস্ট ১৫ টি রেজাল্ট এর গড়ের সমন্বয়ে টপ ২ জন কে পুরস্কার দেয়া হবে।</p>
+			</div>
+					</div>
 
 				</div>
 				</div>
 					</div>
 		</div>
-							</div>
+
+		</div>
+		
 		</section>
+
 					</div>
 		</div>
 							</div>
@@ -850,32 +867,77 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</section>
 				
 				
-<section class="elementor-section elementor-top-section elementor-element elementor-element-9b311fa elementor-section-boxed elementor-section-height-default elementor-section-height-default"  id="contact" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		<section class="elementor-section elementor-inner-section elementor-element elementor-element-d643dad elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="contact" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-446f227" data-id="446f227" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24b3133" data-id="24b3133" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7a17fb4 tt-view-stacked tt-shape-rounded tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="7a17fb4" data-element_type="widget" data-widget_type="tt-heading.default">
+								<div class="elementor-element elementor-element-58b70f3 tt-view-stacked tt-shape-rounded tt-text-align-center tt-heading-fill-color elementor-widget elementor-widget-tt-heading" data-id="58b70f3" data-element_type="widget" data-widget_type="tt-heading.default">
 				<div class="elementor-widget-container">
 			
 		<div class="section-heading style-one">
+			<h2 class="section-title">যোগাযোগ করুন</h2>
+				<div class="description">যে কোন তথ্য কিংবা অভিযোগ এর জন্য যোগাযোগ করুন</div>
+					</div>
 
-						<!-- /.icon-container -->
-
-<h3 class="subtitle">Contact Us</h3>
-<h2 class="section-title">Najj Technologies Limited</h2>
-<div class="description">
-<p>We will be happy to hear your query and suggestion, thank you in advance.</p></div>
-</div>
-</div>
-</div>
-<p>jksadjofshh</p>
-</div>
-			</div>
 				</div>
-				
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-d643dad elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d643dad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-17cb24c" data-id="17cb24c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-824d148 elementor-widget elementor-widget-image" data-id="824d148" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="634" height="489" src="images/contact-us-img-2.svg" class="attachment-full size-full" alt="" loading="lazy" />															</div>
+				</div>
 					</div>
 		</div>
-		<img src="images/SSLCommerz.png"/>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a3b80ad" data-id="a3b80ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d67682c elementor-widget elementor-widget-tt-contact-form" data-id="d67682c" data-element_type="widget" data-widget_type="tt-contact-form.default">
+				<div class="elementor-widget-container">
+					<div class="contact-form contact-form-boxed">
+			<div role="form" class="wpcf7" id="wpcf7-f8-p20-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/contact/#wpcf7-f8-p20-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="8" />
+<input type="hidden" name="_wpcf7_version" value="5.5.6" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8-p20-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="20" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="contact-form">
+<div class="row">
+<div class="col-md-6"><span class="wpcf7-form-control-wrap fname"><input type="text" name="fname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First Name" /></span></div>
+<div class="col-md-6"><span class="wpcf7-form-control-wrap lname"><input type="text" name="lname" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Last Name" /></span></div>
+<div class="col-md-6"><span class="wpcf7-form-control-wrap tel-526"><input type="tel" name="tel-526" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone" /></span></div>
+<div class="col-md-6"><span class="wpcf7-form-control-wrap emailid"><input type="email" name="emailid" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span></div>
+<div class="col-md-12"><span class="wpcf7-form-control-wrap textarea-997"><textarea name="textarea-997" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Message"></textarea></span><input type="submit" value="Send Message" class="wpcf7-form-control has-spinner wpcf7-submit tt-btn" /></div>
+</div>
+</div>
+<p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="54"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-43da41e elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="43da41e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3f5bb42" data-id="3f5bb42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-016f814 elementor-widget elementor-widget-google_maps" data-id="016f814" data-element_type="widget" data-widget_type="google_maps.default">
+				
+				</div>
+				</div>
+					</div>
+		</div>
 							</div>
 		</section>
 
@@ -1019,7 +1081,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.1' id='wc-cart-fragments-js'></script>
-<script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/js/bootstrap.min.js?ver=4.3.1' id='bootstrap-js'></script>
+<script type='text/javascript' src='js/bootstrap.min.js' id='bootstrap-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/plugins/quiety-core/assets/js/isotope.pkgd.min.js?ver=3.5.1' id='isotope-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/js/wow.min.js?ver=3.1.12' id='wow-js'></script>
 <script type='text/javascript' src='https://quiety-wp.themetags.com/wp-content/themes/quiety/assets/js/jquery.waypoints.js?ver=3.1.12' id='waypoints-js'></script>

@@ -184,6 +184,7 @@ address {
   margin: 0 0 1.5em;
 }
 
+
 pre {
   background: #eee;
   font-family: "Courier 10 Pitch", Courier, monospace;
@@ -257,6 +258,18 @@ img {
 
 p {
   margin-bottom: 1em;
+}
+.rounded-circle {
+  background-color: white;
+  text-align: center;
+  font-size: 2rem;   
+}
+a:hover {
+color: blue;
+text-decoration: none;
+}
+.prize:hover,.prize:active {
+background-color: #efa41c !important;
 }
 
 .pr {
@@ -1260,7 +1273,7 @@ nav.wp-calendar-nav {
 ## Banner
 --------------------------------------------------------------*/
 .banner {
-  height: 950px;
+  height: 650px;
   position: relative;
   overflow: hidden;
 }
@@ -4696,7 +4709,7 @@ nav.wp-calendar-nav {
 }
 
 .tt-view-stacked .tt-icon-box__icon-container {
-  background-color: #175cff;
+  background-color: #bec7de;
   color: #fff;
 }
 
