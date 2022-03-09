@@ -1273,7 +1273,7 @@ nav.wp-calendar-nav {
 ## Banner
 --------------------------------------------------------------*/
 .banner {
-  height: 640px;
+  min-height: 100vh;
   position: relative;
   overflow: hidden;
 }
