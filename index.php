@@ -874,7 +874,7 @@
                                                                                             <div class="col-md-10">
                                                                                                 <h3
                                                                                                     class="tt-icon-box__title">
-                                                                                                    <a href="">গত কালের
+                                                                                                    <a href="#table">গত কালের
                                                                                                         বিজয়ী</a></h3>
                                                                                                 <p
                                                                                                     class="tt-icon-box__description">
@@ -911,7 +911,7 @@
                                                                                             <div class="col-md-10">
                                                                                                 <h3
                                                                                                     class="tt-icon-box__title">
-                                                                                                    <a href="#">গত
+                                                                                                    <a href="#table">গত
                                                                                                         সপ্তাহের
                                                                                                         বিজয়ী</a></h3>
                                                                                                 <p
@@ -947,7 +947,7 @@
                                                                                             <div class="col-md-10">
                                                                                                 <h3
                                                                                                     class="tt-icon-box__title">
-                                                                                                    <a href="#">গত মাসের
+                                                                                                    <a href="#table">গত মাসের
                                                                                                         বিজয়ী</a>
                                                                                                 </h3>
                                                                                                 <p
@@ -971,8 +971,8 @@
                                                             </div>
                                                         </section></br>
 														
-														<section class="mx-3">
-
+														<section class="mx-3" id="table">
+</br></br></br>
                                                         <table class="table table-hover">
                                                             <thead>
                                                                 <tr>
@@ -1074,7 +1074,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </section>
+                                            </section></br></br></br></br></br></br>
 
 
 
@@ -1540,7 +1540,7 @@
                                             <div class="section-heading style-one">
 
                                                 <!-- /.icon-container -->
-
+                                                </br></br></br>
                                                 <h2 class="section-title">পুরস্কার !!!</h2>
                                                 <div class="description">দেখে নিন কি কি পুরস্কার থাকছে! এছাড়াও বিশেষ
                                                     সময়ে বিশেষ পুরস্কার থাকবে। নোটিস বোর্ড এর মাধ্যমে আপডেট তথ্য পাওয়া
@@ -1928,6 +1928,7 @@
                                         <div class="elementor-widget-container">
 
                                             <div class="section-heading style-one">
+                                            </br></br></br>
                                                 <h2 class="section-title">যোগাযোগ করুন</h2>
                                                 <div class="description">যে কোন তথ্য কিংবা অভিযোগ এর জন্য যোগাযোগ করুন
                                                 </div>
