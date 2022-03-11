@@ -971,8 +971,8 @@
                                                             </div>
                                                         </section></br>
 														
-														<section class="mx-3" id="table">
-</br></br></br>
+														<section class="mx-3 p-3" id="table">
+                                                      </br></br></br>
                                                         <table class="table table-hover">
                                                             <thead>
                                                                 <tr>
@@ -1074,7 +1074,8 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </section></br>
+                                            </section>
+                                        </br>
 
 
 
