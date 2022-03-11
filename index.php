@@ -972,7 +972,7 @@
                                                         </section></br>
 														
 														<section class="mx-3 p-3" id="table">
-                                                      </br></br></br>
+                                                        </br>
                                                         <table class="table table-hover">
                                                             <thead>
                                                                 <tr>
