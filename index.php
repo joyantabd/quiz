@@ -716,7 +716,7 @@
                                             <a href="#reward">পুরস্কার</a></li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#qa">প্রশ্নত্তর</a></li>
+                                            <a href="#qa">প্রশ্নোত্তর</a></li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
                                             <a href="#contact">যোগাযোগ</a></li>
@@ -2197,7 +2197,7 @@
                                         <a href="#reward">পুরস্কার</a></li>
                                     <li id="menu-item-282"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
-                                        <a href="#qa">প্রশ্নউত্তর</a></li>
+                                        <a href="#qa">প্রশ্নোত্তর</a></li>
                                     <li id="menu-item-1913"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913">
                                         <a href="#contact">যোগাযোগ</a></li>
