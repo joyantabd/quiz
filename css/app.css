@@ -5495,6 +5495,16 @@ nav.wp-calendar-nav {
 .tt-faq-list.left-icon .tt-faq-list__title {
   font-size: 18px;
 }
+
+.php-email-form #sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
 .tt-faq-list__title {
   font-size: 20px;
   font-weight: 200;

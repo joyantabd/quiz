@@ -512,7 +512,7 @@
 
     <link rel="icon" href="images/favicon.png" sizes="192x192" />
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    
+
 </head>
 
 <body
@@ -681,8 +681,7 @@
 
                             <div class="mobile-menu-header">
                                 <a href="#" rel="home">
-                                    <img src="images/logo-color.png"
-                                        alt="Protivaa" class="main-logo" />
+                                    <img src="images/logo-color.png" alt="Protivaa" class="main-logo" />
                                 </a>
 
                                 <div class="close-menu page-close-main-menu" id="page-close-main-menu">
@@ -695,7 +694,7 @@
                             <div class="menu-wrapper">
                                 <div class="menu-primary-menu-container">
                                     <ul id="menu-primary-menu" class="site-main-menu">
-                            
+
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
                                             <a href="#winner">বিজয়ী তালিকা</a>
@@ -764,9 +763,10 @@
                                                                     বুদ্ধির</h2>
                                                                 <h1 class="banner__title wow fadeInUp text-danger"
                                                                     data-wow-delay=".3s">প্রতিভা ?</h1></br></br>
-                                                                <a class="tt-btn banner-btn" href="/login.php">যাচাই করুন</a>
+                                                                <a class="tt-btn banner-btn" href="/login.php">যাচাই
+                                                                    করুন</a>
 
- 
+
                                                             </div>
                                                         </div>
 
@@ -2000,92 +2000,44 @@
                                                                             aria-atomic="true"></p>
                                                                         <ul></ul>
                                                                     </div>
-                                                                    <form action="/contact/#wpcf7-f8-p20-o1"
-                                                                        method="post" class="wpcf7-form init"
-                                                                        novalidate="novalidate" data-status="init">
-                                                                        <div style="display: none;">
-                                                                            <input type="hidden" name="_wpcf7"
-                                                                                value="8" />
-                                                                            <input type="hidden" name="_wpcf7_version"
-                                                                                value="5.5.6" />
-                                                                            <input type="hidden" name="_wpcf7_locale"
-                                                                                value="en_US" />
-                                                                            <input type="hidden" name="_wpcf7_unit_tag"
-                                                                                value="wpcf7-f8-p20-o1" />
-                                                                            <input type="hidden"
-                                                                                name="_wpcf7_container_post"
-                                                                                value="20" />
-                                                                            <input type="hidden"
-                                                                                name="_wpcf7_posted_data_hash"
-                                                                                value="" />
-                                                                        </div>
-                                                                        <div class="contact-form">
-                                                                            <div class="row">
-                                                                                <div class="col-md-6"><span
-                                                                                        class="wpcf7-form-control-wrap fname"><input
-                                                                                            type="text" name="fname"
-                                                                                            value="" size="40"
-                                                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                            aria-required="true"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="First Name" /></span>
-                                                                                </div>
-                                                                                <div class="col-md-6"><span
-                                                                                        class="wpcf7-form-control-wrap lname"><input
-                                                                                            type="text" name="lname"
-                                                                                            value="" size="40"
-                                                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                                                            aria-required="true"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="Last Name" /></span>
-                                                                                </div>
-                                                                                <div class="col-md-6"><span
-                                                                                        class="wpcf7-form-control-wrap tel-526"><input
-                                                                                            type="tel" name="tel-526"
-                                                                                            value="" size="40"
-                                                                                            class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel"
-                                                                                            aria-required="true"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="Phone" /></span>
-                                                                                </div>
-                                                                                <div class="col-md-6"><span
-                                                                                        class="wpcf7-form-control-wrap emailid"><input
-                                                                                            type="email" name="emailid"
-                                                                                            value="" size="40"
-                                                                                            class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
-                                                                                            aria-required="true"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="Your Email" /></span>
-                                                                                </div>
-                                                                                <div class="col-md-12"><span
-                                                                                        class="wpcf7-form-control-wrap textarea-997"><textarea
-                                                                                            name="textarea-997"
-                                                                                            cols="40" rows="10"
-                                                                                            class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
-                                                                                            aria-required="true"
-                                                                                            aria-invalid="false"
-                                                                                            placeholder="Your Message"></textarea></span><input
-                                                                                        type="submit"
-                                                                                        value="Send Message"
-                                                                                        class="wpcf7-form-control has-spinner wpcf7-submit tt-btn" />
-                                                                                </div>
+                                                                    <form onsubmit="sendEmail()" class="php-email-form"
+                                                                        id="contact_form">
+                                                                        <div class="row">
+                                                                            <div class="col-md-6 form-group">
+                                                                                <input type="text" name="name"
+                                                                                    class="form-control" id="to_name"
+                                                                                    placeholder="Your Name" required>
                                                                             </div>
+                                                                            <div
+                                                                                class="col-md-6 form-group mt-3 mt-md-0">
+                                                                                <input type="email" class="form-control"
+                                                                                    name="email" id="from_name"
+                                                                                    placeholder="Your Email" required>
+                                                                            </div>
+                                                                            <div class="col-md-6 form-group">
+                                                                            <input type="number" class="form-control"
+                                                                                    name="phone" maxlength="11" id="phone"
+                                                                                    oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
+                                                                                    placeholder="Phone Number" required>
+                                                                            </div>
+                                                                            <div
+                                                                                class="col-md-6 form-group mt-3 mt-md-0">
+                                                                                <input type="text" class="form-control"
+                                                                                name="subject" id="from_subject"
+                                                                                placeholder="Subject" required>
+                                                                            </div>
+                                                                        <div class="form-group mt-3">
+                                                                            <textarea class="form-control" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Message"
+                                                                                name="message" id="message"
+                                                                                ></textarea>
                                                                         </div>
-                                                                        <p style="display: none !important;">
-                                                                            <label>&#916;<textarea
-                                                                                    name="_wpcf7_ak_hp_textarea"
-                                                                                    cols="45" rows="8"
-                                                                                    maxlength="100"></textarea></label><input
-                                                                                type="hidden" id="ak_js_1"
-                                                                                name="_wpcf7_ak_js" value="54" />
-                                                                            <script>
-                                                                            document.getElementById("ak_js_1")
-                                                                                .setAttribute("value", (new Date())
-                                                                                    .getTime());
-                                                                            </script>
-                                                                        </p>
-                                                                        <div class="wpcf7-response-output"
-                                                                            aria-hidden="true"></div>
+                                                                        <div class="my-3">
+                                                                            <div id="sent-message" >Your message has been
+                                                                                sent. Thank you!</div>
+                                                                        </div>
+                                                                        <div class="text-center"><button
+                                                                                type="submit" class="wpcf7-form-control has-spinner wpcf7-submit tt-btn">Send Message</button>
+                                                                        </div>
                                                                     </form>
                                                                 </div>
                                                             </div>
@@ -2099,30 +2051,14 @@
                             </div>
                         </div>
                     </section>
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-43da41e elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                        data-id="43da41e" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-no">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3f5bb42"
-                                data-id="3f5bb42" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-016f814 elementor-widget elementor-widget-google_maps"
-                                        data-id="016f814" data-element_type="widget"
-                                        data-widget_type="google_maps.default">
 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <img src="images/SSLCommerz.png" />
+
+
                 </div>
-                </section>
-                <img src="images/SSLCommerz.png" />
-
-
             </div>
-    </div>
 
-    </main><!-- /#site-main -->
+        </main><!-- /#site-main -->
     </div><!-- /#site-content -->
     <footer id="site_footer" class="site-footer footer_dark">
 
@@ -2262,14 +2198,14 @@
         </div>
 
     </footer><!-- #site-footer -->
-
+    <script src="js/contact.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
     <script type="text/javascript">
     (function() {
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-        document.body.className = c;
+        emailjs.init("rdJ51c4DY8z0rvTFO");
     })();
     </script>
+
     <link rel='stylesheet' id='elementor-post-1576-css'
         href='https://quiety-wp.themetags.com/wp-content/uploads/elementor/css/post-1576.css?ver=1646314910'
         type='text/css' media='all' />
