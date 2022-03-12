@@ -227,6 +227,14 @@ body {
   -o-align-items: center;
   -ms-align-items: center; }
 
+  .middle-div {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
 .display-flex-center {
   justify-content: center;
   -moz-justify-content: center;

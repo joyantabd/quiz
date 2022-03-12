@@ -17,7 +17,7 @@
 </head>
 <body>
 
-    <div class="main">
+    <div class="main middle-div">
         <!-- Sing in  Form -->
         <section class="sign-in">
             <div class="container">

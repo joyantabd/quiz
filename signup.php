@@ -16,7 +16,7 @@
 </head>
 <body>
 
-    <div class="main">
+    <div class="main middle-div">
 
  <!-- Sign up form -->
  <section class="signup">
