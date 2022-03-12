@@ -7,6 +7,7 @@ function sendEmail(vent) {
       message: document.getElementById("message").value,
     };
   
+    // Service & template id need to take from Emailjs.com
     emailjs
       .send("service_901gtit", "template_5v944mk", emailBody)
       .then(function (res) {
