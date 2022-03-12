@@ -35,7 +35,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="mobile"><i class="zmdi zmdi-phone"></i></label>
-                                <input type="number" maxlength="11" required
+                                <input type="number" maxlength="11" placeholder="Your Phone Number" required
                                  oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);" >
                             </div>
                             <div class="form-group">
