@@ -34,7 +34,6 @@
         padding: 0 !important;
     }
     </style>
-    <link rel='stylesheet' href='css/style.min.css' type='text/css' media='all' />
     <style type='text/css'>
     .wp-block-audio figcaption {
         color: #555;
@@ -508,12 +507,12 @@
     <script type='text/javascript'
         src='https://quiety-wp.themetags.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2'
         id='jquery-migrate-js'></script>
-    
 
 
-		<link rel="icon" href="images/favicon.png" sizes="192x192" />
+
+    <link rel="icon" href="images/favicon.png" sizes="192x192" />
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
+    
 </head>
 
 <body
@@ -681,9 +680,9 @@
                         <div class="main-nav-container canvas-menu-wrapper" id="mega-menu-wrap">
 
                             <div class="mobile-menu-header">
-                                <a href="https://quiety-wp.themetags.com/" rel="home">
-                                    <img src="https://quiety-wp.themetags.com/wp-content/uploads/2021/11/logo-color.svg"
-                                        alt="Quiety" class="main-logo" />
+                                <a href="#" rel="home">
+                                    <img src="images/logo-color.png"
+                                        alt="Protivaa" class="main-logo" />
                                 </a>
 
                                 <div class="close-menu page-close-main-menu" id="page-close-main-menu">
@@ -696,33 +695,39 @@
                             <div class="menu-wrapper">
                                 <div class="menu-primary-menu-container">
                                     <ul id="menu-primary-menu" class="site-main-menu">
+                            
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#home">হোম</a></li>
+                                            <a href="#winner">বিজয়ী তালিকা</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#winner">বিজয়ী তালিকা</a></li>
+                                            <a href="#about">প্রতিভা সম্পর্কে</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#about">প্রতিভা সম্পর্কে</a></li>
+                                            <a href="#quizcategory">কুইজের ধরণ</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#quizcategory">কুইজের ধরণ</a></li>
+                                            <a href="#rule">নিয়ম</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#rule">নিয়ম</a></li>
+                                            <a href="#reward">পুরস্কার</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#reward">পুরস্কার</a></li>
+                                            <a href="#qa">প্রশ্নোত্তর</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#qa">প্রশ্নোত্তর</a></li>
+                                            <a href="#contact">যোগাযোগ</a>
+                                        </li>
                                         <li id="menu-item-23"
                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#contact">যোগাযোগ</a></li>
-										<li id="menu-item-23"
-                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item">
-                                            <a href="#">সাইন ইন/আপ</a></li>
+                                            <a href="/login.php">সাইন ইন/আপ</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -754,12 +759,14 @@
                                                             <div class="banner__content">
                                                                 <h2 class="banner__title wow fadeInUp"
                                                                     data-wow-delay=".3s">শেষ কবে ঝালাই করেছেন </h2>
-																	<h2 class="banner__title wow fadeInUp"
+                                                                <h2 class="banner__title wow fadeInUp"
                                                                     data-wow-delay=".3s">আপনার
                                                                     বুদ্ধির</h2>
                                                                 <h1 class="banner__title wow fadeInUp text-danger"
                                                                     data-wow-delay=".3s">প্রতিভা ?</h1></br></br>
-                                                                <a href="#" class="tt-btn banner-btn">চেষ্টা করুন</a>
+                                                                <a class="tt-btn banner-btn" href="/login.php">যাচাই করুন</a>
+
+ 
                                                             </div>
                                                         </div>
 
@@ -874,8 +881,10 @@
                                                                                             <div class="col-md-10">
                                                                                                 <h3
                                                                                                     class="tt-icon-box__title">
-                                                                                                    <a href="#table">গত কালের
-                                                                                                        বিজয়ী</a></h3>
+                                                                                                    <a href="#table">গত
+                                                                                                        কালের
+                                                                                                        বিজয়ী</a>
+                                                                                                </h3>
                                                                                                 <p
                                                                                                     class="tt-icon-box__description">
                                                                                                     <?php
@@ -913,7 +922,8 @@
                                                                                                     class="tt-icon-box__title">
                                                                                                     <a href="#table">গত
                                                                                                         সপ্তাহের
-                                                                                                        বিজয়ী</a></h3>
+                                                                                                        বিজয়ী</a>
+                                                                                                </h3>
                                                                                                 <p
                                                                                                     class="tt-icon-box__description">
                                                                                                     <?php
@@ -947,7 +957,8 @@
                                                                                             <div class="col-md-10">
                                                                                                 <h3
                                                                                                     class="tt-icon-box__title">
-                                                                                                    <a href="#table">গত মাসের
+                                                                                                    <a href="#table">গত
+                                                                                                        মাসের
                                                                                                         বিজয়ী</a>
                                                                                                 </h3>
                                                                                                 <p
@@ -970,95 +981,95 @@
                                                                 </div>
                                                             </div>
                                                         </section></br>
-														
-														<section class="mx-3 p-3" id="table">
-                                                        </br>
-                                                        <table class="table table-hover">
-                                                            <thead>
-                                                                <tr>
-																<th>ক্রমিক</th>
-                                    							<th>ইমেইল</th>
-                                    							<th>বিজয়ীর নাম</th>
-                                    							<th>মোবাইল নাম্বার</th>
-                                    							<th>স্কোর</th>
-                                    							<th>সময়</th>
-                                                                </tr>
-                                                            </thead>
-                                                            <tbody>
-                                                                <tr>
-                                                                    <th>1</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <th scope="row">2</th>
-                                                                    <td>user2@protivaa.com</td>
-                                                                    <td>Ledbetter</td>
-																	<td>+880139272567</td>
-																	<td>30</td>
-																	<td>15</td>
-                                                                </tr>
-                                                                <tr>
-                                                                    <th scope="row">3</th>
-                                                                    <td>user3@protivaa.com</td>
-                                                                    <td>Christopher </td>
-																	<td>+8801945321754</td>
-																	<td>40</td>
-																	<td>30</td>
-                                                                </tr>
-																<tr>
-                                                                    <th scope="row">4</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
-																<tr>
-                                                                    <th scope="row">5</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
-																<tr>
-                                                                    <th scope="row">6</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
-																<tr>
-                                                                    <th scope="row">7</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
-																<tr>
-                                                                    <th scope="row">8</th>
-                                                                    <td>user1@protivaa.com</td>
-                                                                    <td>Mark</td>
-																	<td>+8801673962210</td>
-																	<td>50</td>
-																	<td>10</td>
-                                                                </tr>
 
-                                                            </tbody>
-                                                        </table>
-                                                          </section>
+                                                        <section class="mx-3 p-3" id="table">
+                                                            </br>
+                                                            <table class="table table-hover">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>ক্রমিক</th>
+                                                                        <th>ইমেইল</th>
+                                                                        <th>বিজয়ীর নাম</th>
+                                                                        <th>মোবাইল নাম্বার</th>
+                                                                        <th>স্কোর</th>
+                                                                        <th>সময়</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th>1</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">2</th>
+                                                                        <td>user2@protivaa.com</td>
+                                                                        <td>Ledbetter</td>
+                                                                        <td>+880139272567</td>
+                                                                        <td>30</td>
+                                                                        <td>15</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">3</th>
+                                                                        <td>user3@protivaa.com</td>
+                                                                        <td>Christopher </td>
+                                                                        <td>+8801945321754</td>
+                                                                        <td>40</td>
+                                                                        <td>30</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">4</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">5</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">6</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">7</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">8</th>
+                                                                        <td>user1@protivaa.com</td>
+                                                                        <td>Mark</td>
+                                                                        <td>+8801673962210</td>
+                                                                        <td>50</td>
+                                                                        <td>10</td>
+                                                                    </tr>
+
+                                                                </tbody>
+                                                            </table>
+                                                        </section>
 
 
                                                     </div>
                                                 </div>
                                             </div>
-											
+
 
                                             <section
                                                 class="elementor-section elementor-inner-section elementor-element elementor-element-2d33334 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
@@ -1075,7 +1086,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                        </br>
+                                            </br>
 
 
 
@@ -1929,7 +1940,7 @@
                                         <div class="elementor-widget-container">
 
                                             <div class="section-heading style-one">
-                                            </br></br></br>
+                                                </br></br></br>
                                                 <h2 class="section-title">যোগাযোগ করুন</h2>
                                                 <div class="description">যে কোন তথ্য কিংবা অভিযোগ এর জন্য যোগাযোগ করুন
                                                 </div>
@@ -2105,7 +2116,7 @@
                         </div>
                 </div>
                 </section>
-				<img src="images/SSLCommerz.png"/>
+                <img src="images/SSLCommerz.png" />
 
 
             </div>
@@ -2169,16 +2180,20 @@
                                 <ul id="menu-pages" class="menu">
                                     <li id="menu-item-267"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-267">
-                                        <a href="#home" aria-current="page">হোম</a></li>
+                                        <a href="#home" aria-current="page">হোম</a>
+                                    </li>
                                     <li id="menu-item-268"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268">
-                                        <a href="#winner">বিজয়ী তালিকা</a></li>
+                                        <a href="#winner">বিজয়ী তালিকা</a>
+                                    </li>
                                     <li id="menu-item-269"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269">
-                                        <a href="#about">প্রতিভা সম্পর্কে</a></li>
+                                        <a href="#about">প্রতিভা সম্পর্কে</a>
+                                    </li>
                                     <li id="menu-item-270"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270">
-                                        <a href="#quizcategory">কুইজের ধরণ</a></li>
+                                        <a href="#quizcategory">কুইজের ধরণ</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -2191,16 +2206,20 @@
                                 <ul id="menu-pages" class="menu">
                                     <li id="menu-item-1916"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916">
-                                        <a href="#rule">নিয়ম</a></li>
+                                        <a href="#rule">নিয়ম</a>
+                                    </li>
                                     <li id="menu-item-1914"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914">
-                                        <a href="#reward">পুরস্কার</a></li>
+                                        <a href="#reward">পুরস্কার</a>
+                                    </li>
                                     <li id="menu-item-282"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282">
-                                        <a href="#qa">প্রশ্নোত্তর</a></li>
+                                        <a href="#qa">প্রশ্নোত্তর</a>
+                                    </li>
                                     <li id="menu-item-1913"
                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913">
-                                        <a href="#contact">যোগাযোগ</a></li>
+                                        <a href="#contact">যোগাযোগ</a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
