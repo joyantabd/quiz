@@ -40,7 +40,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="pass"><i class="zmdi zmdi-lock"></i></label>
-                                <input type="password" name="pass" id="pass" placeholder="Password" required/>
+                                <input type="password" name="pass" id="pass" placeholder="Password" maxlength="8" required/>
                             </div>
                             <!-- <div class="form-group">
                                 <label for="re-pass"><i class="zmdi zmdi-lock-outline"></i></label>
