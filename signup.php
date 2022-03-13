@@ -11,8 +11,9 @@
 
     <!-- Main css -->
     <link rel="stylesheet" href="login/css/style.css">
-      <!-- Favicon -->
-      <link rel="icon" href="images/favicon.png" sizes="192x192" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon.png" sizes="192x192" />
 </head>
 <body>
 
