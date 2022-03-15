@@ -3781,7 +3781,9 @@ nav.wp-calendar-nav {
 ## Social Profiles
 --------------------------------------------------------------*/
 .dt-social-link {
-  margin: 0;
+  flex: 0 0 50%;
+  max-width: 50%;
+
 }
 .dt-social-link li {
   display: inline-block;
@@ -8447,9 +8449,8 @@ input[type=submit]:hover {
 
 input:not([type=checkbox]):not([type=submit]),
 textarea {
-  margin-bottom: 20px;
+  margin-bottom: 5px;
   width: 100%;
-  padding: 0 15px;
   border: 2px solid #f5f5f5;
   font-weight: 400;
   outline: 0;
@@ -9067,7 +9068,7 @@ a:hover, a:active {
 .close-menu {
   height: 40px;
   width: 40px;
-  background: rgba(136, 136, 136, 0.1);
+  background: rgb(240 9 9 / 10%);
   border-radius: 50%;
   text-align: center;
   line-height: 42px;
